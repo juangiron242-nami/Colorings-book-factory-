@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 from pathlib import Path
 
@@ -35,6 +36,16 @@ def cmd_seed_placeholders(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_qc(args: argparse.Namespace) -> int:
+    from factory.checks import write_preflight_reports
+
+    json_path, text_path = write_preflight_reports(args.book_dir, repo_root=_repo_root())
+    print(json_path)
+    print(text_path)
+    report = json.loads(json_path.read_text(encoding="utf-8"))
+    return 0 if report["ok"] else 1
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="cbf", description="Coloring Book Factory")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -50,6 +61,10 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("build-interior", help="Build interior PDF into output/<book_id>/")
     p.add_argument("book_dir", type=Path)
     p.set_defaults(func=cmd_build_interior)
+
+    p = sub.add_parser("qc", help="Run automated preflight checks")
+    p.add_argument("book_dir", type=Path)
+    p.set_defaults(func=cmd_qc)
 
     return parser
 
