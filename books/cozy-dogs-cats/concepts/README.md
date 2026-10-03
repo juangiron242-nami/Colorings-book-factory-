@@ -1,17 +1,30 @@
 # Concepts — cozy-dogs-cats
 
-Ten interior pages built from the operator photo set (art v3):
+**19-page structure**
 
-1. `newborn-sleep` — baby Etsy nap
-2. `box-nest` — Etsy in box nest
-3. `bottle-time` — bottle feeding
-4. `bow-day` — puppy bows
-5. `bed-cozy` — Etsy + Luna
-6. `garden-play` — Etsy + Coco
-7. `car-buddy` — Etsy in the car
-8. `rainy-day` — rainy nap
-9. `happy-smile` — Etsy smile + toys
-10. `picnic` — Coco + Luna
+### Pages 1–10 — Puppy Etsy
+Drawn from earlier pages 1, 2, 3, 4, 6, and 10 concepts:
 
-Roster still includes Smoky and Fat Girl; pages use characters
-visible/usable from the current reference batch and brief.
+1. Newborn nap  
+2. Newborn close-up  
+3. Box nest  
+4. Box + ball  
+5. Bottle time  
+6. Held close  
+7. Bow day  
+8. Floor look-back  
+9. Garden play (puppy + Coco)  
+10. Picnic (puppy + Luna)
+
+### Pages 11–19 — Mature Etsy
+Drawn from earlier pages 5, 7, 8, and 9 concepts:
+
+11. Cozy bed with Luna  
+12. Car buddy  
+13. Rainy-day nap  
+14. Happy smile  
+15. Plush pile  
+16. Peaceful sleep  
+17. Cozy hoodie  
+18. Window watch  
+19. Biggest smile
