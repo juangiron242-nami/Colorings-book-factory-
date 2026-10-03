@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {
+      "character_id": "etsy",
+      "name": "Etsy",
+      "species": "dog",
+      "role": "daughter pit bull",
+      "approval_status": "draft",
+      "visual_notes": "Named in product brief only. No approved likeness locked in-repo; await source references before locking model.",
+      "source_refs": []
+    },
+    {
+      "character_id": "smoky",
+      "name": "Smoky",
+      "species": "dog",
+      "role": "gray father pit bull",
+      "approval_status": "draft",
+      "visual_notes": "Named in product brief as gray father pit bull. No approved likeness images in-repo yet.",
+      "source_refs": []
+    },
+    {
+      "character_id": "fat-girl",
+      "name": "Fat Girl",
+      "species": "dog",
+      "role": "mother (deceased)",
+      "approval_status": "draft",
+      "visual_notes": "Named in product brief. No approved likeness images in-repo yet; do not invent traits.",
+      "source_refs": []
+    },
+    {
+      "character_id": "luna",
+      "name": "Luna",
+      "species": "cat",
+      "role": "black cat",
+      "approval_status": "draft",
+      "visual_notes": "Named in product brief as black cat. No approved likeness images in-repo yet.",
+      "source_refs": []
+    },
+    {
+      "character_id": "coco",
+      "name": "Coco",
+      "species": "dog",
+      "role": "Frenchie",
+      "approval_status": "draft",
+      "visual_notes": "Named in product brief as Frenchie. No approved likeness images in-repo yet.",
+      "source_refs": []
+    }
+  ]
+}

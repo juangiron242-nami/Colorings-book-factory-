@@ -1,0 +1,81 @@
+{
+  "book_id": "cozy-dogs-cats",
+  "title": "Cozy Dogs and Cats",
+  "audience": "Very young children beginning to color; parent is the buyer",
+  "theme": "Original cozy dogs-and-cats everyday moments",
+  "layout": {
+    "trim_width_in": 8.5,
+    "trim_height_in": 8.5,
+    "margin_in": 0.5,
+    "bleed_in": 0.125,
+    "dpi": 300,
+    "notes": "Provisional square trim for early factory work; confirm against selected KDP format before release."
+  },
+  "character_ids": ["etsy", "smoky", "fat-girl", "luna", "coco"],
+  "scenes": [
+    {
+      "scene_id": "bed-cozy",
+      "title": "Sharing a cozy bed",
+      "description": "Puppy and kitten sharing a bed. One clear cozy activity; thick outlines and large open areas for young children.",
+      "page_number": 1,
+      "character_ids": ["etsy", "luna"],
+      "approval_status": "approved",
+      "art_status": "missing",
+      "artwork": {
+        "source_path": null,
+        "approved_path": null
+      }
+    },
+    {
+      "scene_id": "garden-play",
+      "title": "Garden play",
+      "description": "Friendly outdoor garden play with recurring animals. One obvious activity; minimal clutter.",
+      "page_number": 2,
+      "character_ids": ["etsy", "smoky", "coco"],
+      "approval_status": "approved",
+      "art_status": "missing",
+      "artwork": {
+        "source_path": null,
+        "approved_path": null
+      }
+    },
+    {
+      "scene_id": "picnic",
+      "title": "Picnic",
+      "description": "Simple picnic scene with dogs and a cat. Large open coloring regions; recognizable shapes.",
+      "page_number": 3,
+      "character_ids": ["smoky", "coco", "luna"],
+      "approval_status": "approved",
+      "art_status": "missing",
+      "artwork": {
+        "source_path": null,
+        "approved_path": null
+      }
+    },
+    {
+      "scene_id": "rainy-day",
+      "title": "Rainy-day relaxation",
+      "description": "Indoor rainy-day relaxation. Calm, cozy, one clear subject/activity for beginning colorers.",
+      "page_number": 4,
+      "character_ids": ["etsy", "fat-girl", "luna"],
+      "approval_status": "approved",
+      "art_status": "missing",
+      "artwork": {
+        "source_path": null,
+        "approved_path": null
+      }
+    }
+  ],
+  "art_status": "missing",
+  "publishing": {
+    "subtitle": "A cozy coloring book for little hands",
+    "description": "An original cozy dogs-and-cats coloring book for very young children who are just beginning to color.",
+    "keywords": ["coloring book", "dogs", "cats", "toddlers", "cozy"],
+    "categories": [],
+    "author": "",
+    "imprint": "",
+    "language": "en",
+    "marketplace": "Amazon KDP"
+  },
+  "output_status": "not_started"
+}
