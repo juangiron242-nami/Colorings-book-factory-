@@ -9,7 +9,7 @@
     "margin_in": 0.5,
     "bleed_in": 0.125,
     "dpi": 300,
-    "notes": "Provisional square trim for early factory work; confirm against selected KDP format before release."
+    "notes": "Provisional 8.5in square trim; 50-page young-child interior near common KDP coloring-book length."
   },
   "character_ids": [
     "etsy",
@@ -29,59 +29,59 @@
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-newborn-sleep.png",
         "approved_path": "artwork/approved/puppy-newborn-sleep.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-newborn-closeup",
       "title": "Puppy: sleepy close-up",
-      "description": "Newborn Etsy face close-up on a soft towel.",
+      "description": "Newborn Etsy face close-up.",
       "page_number": 2,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-newborn-closeup.png",
         "approved_path": "artwork/approved/puppy-newborn-closeup.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-box-nest",
       "title": "Puppy: cozy box nest",
-      "description": "Puppy Etsy in a blanket-lined box nest.",
+      "description": "Puppy Etsy in a box nest.",
       "page_number": 3,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-box-nest.png",
         "approved_path": "artwork/approved/puppy-box-nest.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-box-ball",
       "title": "Puppy: box and ball",
-      "description": "Puppy Etsy in the box nest with a ball.",
+      "description": "Puppy Etsy in the box with a ball.",
       "page_number": 4,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-box-ball.png",
         "approved_path": "artwork/approved/puppy-box-ball.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-bottle-time",
@@ -93,27 +93,27 @@
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-bottle-time.png",
         "approved_path": "artwork/approved/puppy-bottle-time.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-held",
       "title": "Puppy: held close",
-      "description": "Puppy Etsy held gently in caring hands.",
+      "description": "Puppy Etsy held gently.",
       "page_number": 6,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-held.png",
         "approved_path": "artwork/approved/puppy-held.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-bow-day",
@@ -125,32 +125,32 @@
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-bow-day.png",
         "approved_path": "artwork/approved/puppy-bow-day.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-floor-look",
       "title": "Puppy: looking back",
-      "description": "Puppy Etsy sitting on the floor looking back.",
+      "description": "Puppy Etsy looking back on the floor.",
       "page_number": 8,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-floor-look.png",
         "approved_path": "artwork/approved/puppy-floor-look.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-garden-play",
       "title": "Puppy: garden play",
-      "description": "Puppy Etsy and Coco playing ball in the garden.",
+      "description": "Puppy Etsy and Coco in the garden.",
       "page_number": 9,
       "character_ids": [
         "etsy",
@@ -158,11 +158,11 @@
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-garden-play.png",
         "approved_path": "artwork/approved/puppy-garden-play.png"
-      },
-      "section": "puppy"
+      }
     },
     {
       "scene_id": "puppy-picnic",
@@ -175,161 +175,666 @@
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
         "source_path": "artwork/source/puppy-picnic.png",
         "approved_path": "artwork/approved/puppy-picnic.png"
-      },
-      "section": "puppy"
+      }
     },
     {
-      "scene_id": "mature-bed-luna",
-      "title": "Etsy: cozy bed with Luna",
-      "description": "Grown Etsy sharing a cozy bed with Luna.",
+      "scene_id": "puppy-toy-pile",
+      "title": "Puppy: toy pile",
+      "description": "Puppy Etsy with ball, bone, and teddy on a rug.",
       "page_number": 11,
       "character_ids": [
-        "etsy",
-        "luna"
+        "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
-        "source_path": "artwork/source/mature-bed-luna.png",
-        "approved_path": "artwork/approved/mature-bed-luna.png"
-      },
-      "section": "mature"
+        "source_path": "artwork/source/puppy-toy-pile.png",
+        "approved_path": "artwork/approved/puppy-toy-pile.png"
+      }
     },
     {
-      "scene_id": "mature-car-buddy",
-      "title": "Etsy: car buddy",
-      "description": "Grown Etsy riding along in the car.",
+      "scene_id": "puppy-backyard",
+      "title": "Puppy: backyard",
+      "description": "Puppy Etsy by the doghouse with toys.",
       "page_number": 12,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
-        "source_path": "artwork/source/mature-car-buddy.png",
-        "approved_path": "artwork/approved/mature-car-buddy.png"
-      },
-      "section": "mature"
+        "source_path": "artwork/source/puppy-backyard.png",
+        "approved_path": "artwork/approved/puppy-backyard.png"
+      }
     },
     {
-      "scene_id": "mature-rainy-nap",
-      "title": "Etsy: rainy-day nap",
-      "description": "Grown Etsy napping by the rainy window.",
+      "scene_id": "puppy-bath-time",
+      "title": "Puppy: bath time",
+      "description": "Puppy Etsy in the tub with duck and bubbles.",
       "page_number": 13,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
-        "source_path": "artwork/source/mature-rainy-nap.png",
-        "approved_path": "artwork/approved/mature-rainy-nap.png"
-      },
-      "section": "mature"
+        "source_path": "artwork/source/puppy-bath-time.png",
+        "approved_path": "artwork/approved/puppy-bath-time.png"
+      }
     },
     {
-      "scene_id": "mature-happy-smile",
-      "title": "Etsy: happy smile",
-      "description": "Grown Etsy\u2019s big smile with toys.",
+      "scene_id": "puppy-snack-time",
+      "title": "Puppy: snack time",
+      "description": "Puppy Etsy with food and water bowls.",
       "page_number": 14,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
-        "source_path": "artwork/source/mature-happy-smile.png",
-        "approved_path": "artwork/approved/mature-happy-smile.png"
-      },
-      "section": "mature"
+        "source_path": "artwork/source/puppy-snack-time.png",
+        "approved_path": "artwork/approved/puppy-snack-time.png"
+      }
     },
     {
-      "scene_id": "mature-plush-bed",
-      "title": "Etsy: plush pile",
-      "description": "Grown Etsy resting with plush toys.",
+      "scene_id": "puppy-training",
+      "title": "Puppy: training day",
+      "description": "Puppy Etsy training with leash and cones.",
       "page_number": 15,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
-        "source_path": "artwork/source/mature-plush-bed.png",
-        "approved_path": "artwork/approved/mature-plush-bed.png"
-      },
-      "section": "mature"
+        "source_path": "artwork/source/puppy-training.png",
+        "approved_path": "artwork/approved/puppy-training.png"
+      }
     },
     {
-      "scene_id": "mature-sleep-closeup",
-      "title": "Etsy: peaceful sleep",
-      "description": "Grown Etsy sleeping close-up.",
+      "scene_id": "puppy-rain-walk",
+      "title": "Puppy: rainy walk",
+      "description": "Puppy Etsy rainy walk with umbrella and puddles.",
       "page_number": 16,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
-        "source_path": "artwork/source/mature-sleep-closeup.png",
-        "approved_path": "artwork/approved/mature-sleep-closeup.png"
-      },
-      "section": "mature"
+        "source_path": "artwork/source/puppy-rain-walk.png",
+        "approved_path": "artwork/approved/puppy-rain-walk.png"
+      }
     },
     {
-      "scene_id": "mature-hoodie",
-      "title": "Etsy: cozy hoodie",
-      "description": "Grown Etsy in a cozy hoodie.",
+      "scene_id": "puppy-bedtime-story",
+      "title": "Puppy: bedtime story",
+      "description": "Puppy Etsy bedtime with book, lamp, and toys.",
       "page_number": 17,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
-        "source_path": "artwork/source/mature-hoodie.png",
-        "approved_path": "artwork/approved/mature-hoodie.png"
-      },
-      "section": "mature"
+        "source_path": "artwork/source/puppy-bedtime-story.png",
+        "approved_path": "artwork/approved/puppy-bedtime-story.png"
+      }
     },
     {
-      "scene_id": "mature-window-watch",
-      "title": "Etsy: window watch",
-      "description": "Grown Etsy watching the rain from the couch.",
+      "scene_id": "puppy-playground",
+      "title": "Puppy: playground",
+      "description": "Puppy Etsy and Coco at the playground.",
       "page_number": 18,
       "character_ids": [
-        "etsy"
+        "etsy",
+        "coco"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
       "artwork": {
-        "source_path": "artwork/source/mature-window-watch.png",
-        "approved_path": "artwork/approved/mature-window-watch.png"
-      },
-      "section": "mature"
+        "source_path": "artwork/source/puppy-playground.png",
+        "approved_path": "artwork/approved/puppy-playground.png"
+      }
     },
     {
-      "scene_id": "mature-big-smile",
-      "title": "Etsy: biggest smile",
-      "description": "Grown Etsy\u2019s biggest happy smile.",
+      "scene_id": "puppy-birthday",
+      "title": "Puppy: birthday",
+      "description": "Puppy Etsy birthday with cake, gifts, balloons.",
       "page_number": 19,
       "character_ids": [
         "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",
+      "section": "puppy",
+      "artwork": {
+        "source_path": "artwork/source/puppy-birthday.png",
+        "approved_path": "artwork/approved/puppy-birthday.png"
+      }
+    },
+    {
+      "scene_id": "puppy-blanket-fort",
+      "title": "Puppy: blanket fort",
+      "description": "Puppy Etsy and Luna in a blanket fort.",
+      "page_number": 20,
+      "character_ids": [
+        "etsy",
+        "luna"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "puppy",
+      "artwork": {
+        "source_path": "artwork/source/puppy-blanket-fort.png",
+        "approved_path": "artwork/approved/puppy-blanket-fort.png"
+      }
+    },
+    {
+      "scene_id": "mature-bed-luna",
+      "title": "Etsy: cozy bed with Luna",
+      "description": "Grown Etsy sharing a bed with Luna.",
+      "page_number": 21,
+      "character_ids": [
+        "etsy",
+        "luna"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-bed-luna.png",
+        "approved_path": "artwork/approved/mature-bed-luna.png"
+      }
+    },
+    {
+      "scene_id": "mature-car-buddy",
+      "title": "Etsy: car buddy",
+      "description": "Grown Etsy in the car.",
+      "page_number": 22,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-car-buddy.png",
+        "approved_path": "artwork/approved/mature-car-buddy.png"
+      }
+    },
+    {
+      "scene_id": "mature-rainy-nap",
+      "title": "Etsy: rainy-day nap",
+      "description": "Grown Etsy napping by the rainy window.",
+      "page_number": 23,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-rainy-nap.png",
+        "approved_path": "artwork/approved/mature-rainy-nap.png"
+      }
+    },
+    {
+      "scene_id": "mature-happy-smile",
+      "title": "Etsy: happy smile",
+      "description": "Grown Etsy\u2019s smile with toys.",
+      "page_number": 24,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-happy-smile.png",
+        "approved_path": "artwork/approved/mature-happy-smile.png"
+      }
+    },
+    {
+      "scene_id": "mature-plush-bed",
+      "title": "Etsy: plush pile",
+      "description": "Grown Etsy resting with plush toys.",
+      "page_number": 25,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-plush-bed.png",
+        "approved_path": "artwork/approved/mature-plush-bed.png"
+      }
+    },
+    {
+      "scene_id": "mature-sleep-closeup",
+      "title": "Etsy: peaceful sleep",
+      "description": "Grown Etsy sleeping close-up.",
+      "page_number": 26,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-sleep-closeup.png",
+        "approved_path": "artwork/approved/mature-sleep-closeup.png"
+      }
+    },
+    {
+      "scene_id": "mature-hoodie",
+      "title": "Etsy: cozy hoodie",
+      "description": "Grown Etsy in a cozy hoodie.",
+      "page_number": 27,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-hoodie.png",
+        "approved_path": "artwork/approved/mature-hoodie.png"
+      }
+    },
+    {
+      "scene_id": "mature-window-watch",
+      "title": "Etsy: window watch",
+      "description": "Grown Etsy watching the rain.",
+      "page_number": 28,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-window-watch.png",
+        "approved_path": "artwork/approved/mature-window-watch.png"
+      }
+    },
+    {
+      "scene_id": "mature-big-smile",
+      "title": "Etsy: biggest smile",
+      "description": "Grown Etsy\u2019s biggest happy smile.",
+      "page_number": 29,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
       "artwork": {
         "source_path": "artwork/source/mature-big-smile.png",
         "approved_path": "artwork/approved/mature-big-smile.png"
-      },
-      "section": "mature"
+      }
+    },
+    {
+      "scene_id": "mature-dog-park",
+      "title": "Etsy: dog park",
+      "description": "Grown Etsy at the dog park with toys and trees.",
+      "page_number": 30,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-dog-park.png",
+        "approved_path": "artwork/approved/mature-dog-park.png"
+      }
+    },
+    {
+      "scene_id": "mature-beach-day",
+      "title": "Etsy: beach day",
+      "description": "Grown Etsy beach day with bucket and sandcastle.",
+      "page_number": 31,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-beach-day.png",
+        "approved_path": "artwork/approved/mature-beach-day.png"
+      }
+    },
+    {
+      "scene_id": "mature-movie-night",
+      "title": "Etsy: movie night",
+      "description": "Grown Etsy and Coco movie night on the couch.",
+      "page_number": 32,
+      "character_ids": [
+        "etsy",
+        "coco"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-movie-night.png",
+        "approved_path": "artwork/approved/mature-movie-night.png"
+      }
+    },
+    {
+      "scene_id": "mature-kitchen-helper",
+      "title": "Etsy: kitchen helper",
+      "description": "Grown Etsy helping in the kitchen.",
+      "page_number": 33,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-kitchen-helper.png",
+        "approved_path": "artwork/approved/mature-kitchen-helper.png"
+      }
+    },
+    {
+      "scene_id": "mature-laundry-day",
+      "title": "Etsy: laundry day",
+      "description": "Grown Etsy laundry day with clothes and washer.",
+      "page_number": 34,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-laundry-day.png",
+        "approved_path": "artwork/approved/mature-laundry-day.png"
+      }
+    },
+    {
+      "scene_id": "mature-camping",
+      "title": "Etsy: camping",
+      "description": "Grown Etsy camping with tent and campfire.",
+      "page_number": 35,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-camping.png",
+        "approved_path": "artwork/approved/mature-camping.png"
+      }
+    },
+    {
+      "scene_id": "mature-garden-water",
+      "title": "Etsy: garden watering",
+      "description": "Grown Etsy and Luna watering garden flowers.",
+      "page_number": 36,
+      "character_ids": [
+        "etsy",
+        "luna"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-garden-water.png",
+        "approved_path": "artwork/approved/mature-garden-water.png"
+      }
+    },
+    {
+      "scene_id": "mature-ice-cream",
+      "title": "Etsy: ice cream",
+      "description": "Grown Etsy at an ice cream stand.",
+      "page_number": 37,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-ice-cream.png",
+        "approved_path": "artwork/approved/mature-ice-cream.png"
+      }
+    },
+    {
+      "scene_id": "mature-vet-visit",
+      "title": "Etsy: vet visit",
+      "description": "Grown Etsy\u2019s friendly vet checkup.",
+      "page_number": 38,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-vet-visit.png",
+        "approved_path": "artwork/approved/mature-vet-visit.png"
+      }
+    },
+    {
+      "scene_id": "mature-snow-day",
+      "title": "Etsy: snow day",
+      "description": "Grown Etsy snow day with snowman.",
+      "page_number": 39,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-snow-day.png",
+        "approved_path": "artwork/approved/mature-snow-day.png"
+      }
+    },
+    {
+      "scene_id": "mature-market",
+      "title": "Etsy: market day",
+      "description": "Grown Etsy at the farmer market.",
+      "page_number": 40,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-market.png",
+        "approved_path": "artwork/approved/mature-market.png"
+      }
+    },
+    {
+      "scene_id": "mature-spa-day",
+      "title": "Etsy: spa day",
+      "description": "Grown Etsy spa day with bubbles and towels.",
+      "page_number": 41,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-spa-day.png",
+        "approved_path": "artwork/approved/mature-spa-day.png"
+      }
+    },
+    {
+      "scene_id": "mature-library",
+      "title": "Etsy: library",
+      "description": "Grown Etsy and Luna at the library.",
+      "page_number": 42,
+      "character_ids": [
+        "etsy",
+        "luna"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-library.png",
+        "approved_path": "artwork/approved/mature-library.png"
+      }
+    },
+    {
+      "scene_id": "mature-paint-art",
+      "title": "Etsy: paint art",
+      "description": "Grown Etsy painting at an easel.",
+      "page_number": 43,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-paint-art.png",
+        "approved_path": "artwork/approved/mature-paint-art.png"
+      }
+    },
+    {
+      "scene_id": "mature-music-night",
+      "title": "Etsy: music night",
+      "description": "Grown Etsy music night with records.",
+      "page_number": 44,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-music-night.png",
+        "approved_path": "artwork/approved/mature-music-night.png"
+      }
+    },
+    {
+      "scene_id": "mature-bakery",
+      "title": "Etsy: bakery",
+      "description": "Grown Etsy bakery visit with treats.",
+      "page_number": 45,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-bakery.png",
+        "approved_path": "artwork/approved/mature-bakery.png"
+      }
+    },
+    {
+      "scene_id": "mature-balloon-walk",
+      "title": "Etsy: balloon walk",
+      "description": "Grown Etsy and Coco with balloons.",
+      "page_number": 46,
+      "character_ids": [
+        "etsy",
+        "coco"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-balloon-walk.png",
+        "approved_path": "artwork/approved/mature-balloon-walk.png"
+      }
+    },
+    {
+      "scene_id": "mature-pizza-night",
+      "title": "Etsy: pizza night",
+      "description": "Grown Etsy pizza night.",
+      "page_number": 47,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-pizza-night.png",
+        "approved_path": "artwork/approved/mature-pizza-night.png"
+      }
+    },
+    {
+      "scene_id": "mature-stargazing",
+      "title": "Etsy: stargazing",
+      "description": "Grown Etsy stargazing with telescope.",
+      "page_number": 48,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-stargazing.png",
+        "approved_path": "artwork/approved/mature-stargazing.png"
+      }
+    },
+    {
+      "scene_id": "mature-morning-stretch",
+      "title": "Etsy: morning stretch",
+      "description": "Grown Etsy and Luna morning stretch.",
+      "page_number": 49,
+      "character_ids": [
+        "etsy",
+        "luna"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-morning-stretch.png",
+        "approved_path": "artwork/approved/mature-morning-stretch.png"
+      }
+    },
+    {
+      "scene_id": "mature-family-cozy",
+      "title": "Etsy: family cozy",
+      "description": "Grown Etsy, Coco, and Luna cozy on the couch.",
+      "page_number": 50,
+      "character_ids": [
+        "etsy",
+        "coco",
+        "luna"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "section": "mature",
+      "artwork": {
+        "source_path": "artwork/source/mature-family-cozy.png",
+        "approved_path": "artwork/approved/mature-family-cozy.png"
+      }
     }
   ],
   "art_status": "approved",
   "publishing": {
-    "subtitle": "Puppy days to grown-up Etsy \u2014 19 cozy coloring pages",
+    "subtitle": "50 cozy pages \u2014 puppy days to grown-up Etsy",
     "description": "An original cozy dogs-and-cats coloring book for very young children who are just beginning to color.",
     "keywords": [
       "coloring book",
@@ -345,7 +850,7 @@
     "marketplace": "Amazon KDP",
     "cover": {
       "source_path": "artwork/cover/source/cover_wrap.png",
-      "last_page_count": 19
+      "last_page_count": 50
     }
   },
   "output_status": "ready"

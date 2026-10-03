@@ -1,30 +1,13 @@
 # Concepts — cozy-dogs-cats
 
-**19-page structure**
+**50-page young-kid coloring book**
 
-### Pages 1–10 — Puppy Etsy
-Drawn from earlier pages 1, 2, 3, 4, 6, and 10 concepts:
+### Pages 1–20 — Puppy Etsy
+1–10 core puppy moments, then 11–20 with richer toys/backgrounds  
+(toy pile, yard, bath, snack, training, rain walk, bedtime, playground, birthday, blanket fort).
 
-1. Newborn nap  
-2. Newborn close-up  
-3. Box nest  
-4. Box + ball  
-5. Bottle time  
-6. Held close  
-7. Bow day  
-8. Floor look-back  
-9. Garden play (puppy + Coco)  
-10. Picnic (puppy + Luna)
+### Pages 21–50 — Mature Etsy
+21–29 core grown-up moments, then 30–50 fuller scenes  
+(park, beach, movie night, kitchen, laundry, camp, garden, ice cream, vet, snow, market, spa, library, paint, music, bakery, balloons, pizza, stars, morning, family cozy).
 
-### Pages 11–19 — Mature Etsy
-Drawn from earlier pages 5, 7, 8, and 9 concepts:
-
-11. Cozy bed with Luna  
-12. Car buddy  
-13. Rainy-day nap  
-14. Happy smile  
-15. Plush pile  
-16. Peaceful sleep  
-17. Cozy hoodie  
-18. Window watch  
-19. Biggest smile
+New pages intentionally add more background layers, toys, and little scene props while keeping thick outlines and large open coloring areas for young kids.
