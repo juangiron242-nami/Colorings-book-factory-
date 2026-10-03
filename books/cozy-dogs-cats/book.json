@@ -22,7 +22,7 @@
     {
       "scene_id": "bed-cozy",
       "title": "Sharing a cozy bed",
-      "description": "Puppy and kitten sharing a bed. One clear cozy activity; thick outlines and large open areas for young children.",
+      "description": "Etsy the puppy and Luna the kitten sharing a cozy bed. Thick outlines, large open areas for young children.",
       "page_number": 1,
       "character_ids": [
         "etsy",
@@ -38,11 +38,10 @@
     {
       "scene_id": "garden-play",
       "title": "Garden play",
-      "description": "Friendly outdoor garden play with recurring animals. One obvious activity; minimal clutter.",
+      "description": "Etsy and Coco playing with a ball in the garden. One clear activity; minimal clutter.",
       "page_number": 2,
       "character_ids": [
         "etsy",
-        "smoky",
         "coco"
       ],
       "approval_status": "approved",
@@ -55,10 +54,9 @@
     {
       "scene_id": "picnic",
       "title": "Picnic",
-      "description": "Simple picnic scene with dogs and a cat. Large open coloring regions; recognizable shapes.",
+      "description": "Coco the Frenchie and Luna the kitten at a simple picnic. Large open coloring regions.",
       "page_number": 3,
       "character_ids": [
-        "smoky",
         "coco",
         "luna"
       ],
@@ -72,12 +70,10 @@
     {
       "scene_id": "rainy-day",
       "title": "Rainy-day relaxation",
-      "description": "Indoor rainy-day relaxation. Calm, cozy, one clear subject/activity for beginning colorers.",
+      "description": "Etsy relaxing indoors on a rainy day by the window. Calm, cozy, one clear subject for beginning colorers.",
       "page_number": 4,
       "character_ids": [
-        "etsy",
-        "fat-girl",
-        "luna"
+        "etsy"
       ],
       "approval_status": "approved",
       "art_status": "approved",

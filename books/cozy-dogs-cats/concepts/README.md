@@ -1,11 +1,11 @@
 # Concepts — cozy-dogs-cats
 
-Approved scene concepts for the first book (from PRODUCT_PRD / slices):
+Current interior pages (art v2):
 
-1. `bed-cozy` — puppy/kitten sharing a bed
-2. `garden-play` — garden play
-3. `picnic` — picnic
-4. `rainy-day` — rainy-day relaxation
+1. `bed-cozy` — Etsy + Luna sharing a bed
+2. `garden-play` — Etsy + Coco garden ball play
+3. `picnic` — Coco + Luna picnic
+4. `rainy-day` — Etsy rainy-day indoor rest
 
-Detailed records live in `../book.json` under `scenes`.
-Artwork will be attached via the art pipeline (slice 03).
+Smoky and Fat Girl remain in the character roster but are not on
+these pages until reference photos arrive.
