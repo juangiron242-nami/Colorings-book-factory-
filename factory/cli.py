@@ -46,6 +46,14 @@ def cmd_qc(args: argparse.Namespace) -> int:
     return 0 if report["ok"] else 1
 
 
+def cmd_build_cover(args: argparse.Namespace) -> int:
+    from factory.cover import build_cover
+
+    path = build_cover(args.book_dir, repo_root=_repo_root())
+    print(path)
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="cbf", description="Coloring Book Factory")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -65,6 +73,10 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("qc", help="Run automated preflight checks")
     p.add_argument("book_dir", type=Path)
     p.set_defaults(func=cmd_qc)
+
+    p = sub.add_parser("build-cover", help="Build cover from final interior parameters")
+    p.add_argument("book_dir", type=Path)
+    p.set_defaults(func=cmd_build_cover)
 
     return parser
 

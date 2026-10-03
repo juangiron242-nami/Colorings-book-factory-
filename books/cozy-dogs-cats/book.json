@@ -102,7 +102,11 @@
     "author": "",
     "imprint": "",
     "language": "en",
-    "marketplace": "Amazon KDP"
+    "marketplace": "Amazon KDP",
+    "cover": {
+      "source_path": "artwork/cover/source/cover_wrap.png",
+      "last_page_count": 4
+    }
   },
   "output_status": "partial"
 }
