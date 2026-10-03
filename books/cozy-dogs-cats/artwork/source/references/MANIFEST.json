@@ -1,0 +1,481 @@
+{
+  "book_id": "cozy-dogs-cats",
+  "description": "Operator-supplied character reference photos imported for likeness locking.",
+  "missing_in_this_batch": [
+    "smoky",
+    "fat-girl",
+    "luna"
+  ],
+  "notes": [
+    "Smoky (gray father pit bull), Fat Girl (mother), and Luna (black cat) are not clearly present in this photo batch.",
+    "Do not invent likeness details for missing characters.",
+    "Coco assignments are based on brachycephalic/Frenchie traits vs Etsy pit-bull growth series; operator may re-tag."
+  ],
+  "photos": [
+    {
+      "index": 1,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a4a6-726e-8e91-4b4a459c4735.jpg",
+      "path": "artwork/source/references/etsy/newborn/01_01a103ef-a4a6-726e-8e91-4b4a459c4735.jpg",
+      "preview_path": "artwork/source/references/_previews/01_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Two newborns visible on towels; primary subject is the lighter taupe/silver pup (Etsy litter era). Second pup darker charcoal \u2014 sibling, identity not locked."
+    },
+    {
+      "index": 2,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a4d8-7888-9009-b2371aa99534.jpg",
+      "path": "artwork/source/references/etsy/newborn/02_01a103ef-a4d8-7888-9009-b2371aa99534.jpg",
+      "preview_path": "artwork/source/references/_previews/02_etsy_newborn.jpg",
+      "width_px": 1980,
+      "height_px": 3520
+    },
+    {
+      "index": 3,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a521-7d10-a4f2-aa3709dfa2f4.jpg",
+      "path": "artwork/source/references/etsy/newborn/03_01a103ef-a521-7d10-a4f2-aa3709dfa2f4.jpg",
+      "preview_path": "artwork/source/references/_previews/03_etsy_newborn.jpg",
+      "width_px": 4032,
+      "height_px": 3024
+    },
+    {
+      "index": 4,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a567-7848-ba84-cdbfdd110a59.jpg",
+      "path": "artwork/source/references/etsy/newborn/04_01a103ef-a567-7848-ba84-cdbfdd110a59.jpg",
+      "preview_path": "artwork/source/references/_previews/04_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 5,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a5b0-7c21-9cab-305ecb5518d9.jpg",
+      "path": "artwork/source/references/etsy/newborn/05_01a103ef-a5b0-7c21-9cab-305ecb5518d9.jpg",
+      "preview_path": "artwork/source/references/_previews/05_etsy_newborn.jpg",
+      "width_px": 4032,
+      "height_px": 3024
+    },
+    {
+      "index": 6,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a5f9-7cbb-afd5-7249fca3db52.jpg",
+      "path": "artwork/source/references/etsy/newborn/06_01a103ef-a5f9-7cbb-afd5-7249fca3db52.jpg",
+      "preview_path": "artwork/source/references/_previews/06_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 7,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a645-7732-b8ea-032e9d48fe1c.jpg",
+      "path": "artwork/source/references/etsy/newborn/07_01a103ef-a645-7732-b8ea-032e9d48fe1c.jpg",
+      "preview_path": "artwork/source/references/_previews/07_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 8,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a694-7570-a3bb-13e4120bb450.jpg",
+      "path": "artwork/source/references/etsy/newborn/08_01a103ef-a694-7570-a3bb-13e4120bb450.jpg",
+      "preview_path": "artwork/source/references/_previews/08_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 9,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a6e3-7039-b3d1-33f14ff9b206.jpg",
+      "path": "artwork/source/references/etsy/newborn/09_01a103ef-a6e3-7039-b3d1-33f14ff9b206.jpg",
+      "preview_path": "artwork/source/references/_previews/09_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 10,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a736-7fe3-a10e-8edc1c15b1ed.jpg",
+      "path": "artwork/source/references/etsy/newborn/10_01a103ef-a736-7fe3-a10e-8edc1c15b1ed.jpg",
+      "preview_path": "artwork/source/references/_previews/10_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 11,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a78c-78d1-87de-c9e698cbf3ea.jpg",
+      "path": "artwork/source/references/etsy/newborn/11_01a103ef-a78c-78d1-87de-c9e698cbf3ea.jpg",
+      "preview_path": "artwork/source/references/_previews/11_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 12,
+      "character_id": "etsy",
+      "life_stage": "newborn",
+      "original_filename": "01a103ef-a7e0-7a86-98d0-fc486829a4b1.jpg",
+      "path": "artwork/source/references/etsy/newborn/12_01a103ef-a7e0-7a86-98d0-fc486829a4b1.jpg",
+      "preview_path": "artwork/source/references/_previews/12_etsy_newborn.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 13,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-a80d-7dac-863c-2c8eb32901ba.jpg",
+      "path": "artwork/source/references/etsy/puppy/13_01a103ef-a80d-7dac-863c-2c8eb32901ba.jpg",
+      "preview_path": "artwork/source/references/_previews/13_etsy_puppy.jpg",
+      "width_px": 1980,
+      "height_px": 3520
+    },
+    {
+      "index": 14,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-a85f-7a6d-8ffd-0534661b747b.jpg",
+      "path": "artwork/source/references/etsy/puppy/14_01a103ef-a85f-7a6d-8ffd-0534661b747b.jpg",
+      "preview_path": "artwork/source/references/_previews/14_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 15,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-a88f-7bcf-9262-46dc381d7f81.jpg",
+      "path": "artwork/source/references/etsy/puppy/15_01a103ef-a88f-7bcf-9262-46dc381d7f81.jpg",
+      "preview_path": "artwork/source/references/_previews/15_etsy_puppy.jpg",
+      "width_px": 1980,
+      "height_px": 3520
+    },
+    {
+      "index": 16,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-a8e7-7684-bf91-7a0b4b9dc6db.jpg",
+      "path": "artwork/source/references/etsy/puppy/16_01a103ef-a8e7-7684-bf91-7a0b4b9dc6db.jpg",
+      "preview_path": "artwork/source/references/_previews/16_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 17,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-a932-7ee8-9001-a24403380f6d.jpg",
+      "path": "artwork/source/references/etsy/puppy/17_01a103ef-a932-7ee8-9001-a24403380f6d.jpg",
+      "preview_path": "artwork/source/references/_previews/17_etsy_puppy.jpg",
+      "width_px": 4032,
+      "height_px": 3024
+    },
+    {
+      "index": 18,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-a97e-75e0-8091-2cd2cb8c7261.jpg",
+      "path": "artwork/source/references/etsy/puppy/18_01a103ef-a97e-75e0-8091-2cd2cb8c7261.jpg",
+      "preview_path": "artwork/source/references/_previews/18_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 19,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-a9cb-77fb-9652-3be5af809fe1.jpg",
+      "path": "artwork/source/references/etsy/puppy/19_01a103ef-a9cb-77fb-9652-3be5af809fe1.jpg",
+      "preview_path": "artwork/source/references/_previews/19_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 20,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-aa17-798a-8307-8d1408dbfec0.jpg",
+      "path": "artwork/source/references/etsy/puppy/20_01a103ef-aa17-798a-8307-8d1408dbfec0.jpg",
+      "preview_path": "artwork/source/references/_previews/20_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 21,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-aa53-72a8-8689-79e523979757.jpg",
+      "path": "artwork/source/references/etsy/puppy/21_01a103ef-aa53-72a8-8689-79e523979757.jpg",
+      "preview_path": "artwork/source/references/_previews/21_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 2566
+    },
+    {
+      "index": 22,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-aa87-7a7a-94a9-7eea146d3c2a.jpg",
+      "path": "artwork/source/references/etsy/puppy/22_01a103ef-aa87-7a7a-94a9-7eea146d3c2a.jpg",
+      "preview_path": "artwork/source/references/_previews/22_etsy_puppy.jpg",
+      "width_px": 1725,
+      "height_px": 2354
+    },
+    {
+      "index": 23,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-aad0-7d90-9bd9-5995a9d24c2a.jpg",
+      "path": "artwork/source/references/etsy/puppy/23_01a103ef-aad0-7d90-9bd9-5995a9d24c2a.jpg",
+      "preview_path": "artwork/source/references/_previews/23_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 24,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-ab19-702a-b1f1-6c031cdc6a3f.jpg",
+      "path": "artwork/source/references/etsy/puppy/24_01a103ef-ab19-702a-b1f1-6c031cdc6a3f.jpg",
+      "preview_path": "artwork/source/references/_previews/24_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 25,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-ab64-789e-835e-214bc5ae223e.jpg",
+      "path": "artwork/source/references/etsy/puppy/25_01a103ef-ab64-789e-835e-214bc5ae223e.jpg",
+      "preview_path": "artwork/source/references/_previews/25_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 26,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-abab-7c3f-8ed1-c3c689649220.jpg",
+      "path": "artwork/source/references/etsy/puppy/26_01a103ef-abab-7c3f-8ed1-c3c689649220.jpg",
+      "preview_path": "artwork/source/references/_previews/26_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 27,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-abf5-7fad-bcbf-bdda843d3bc3.jpg",
+      "path": "artwork/source/references/etsy/puppy/27_01a103ef-abf5-7fad-bcbf-bdda843d3bc3.jpg",
+      "preview_path": "artwork/source/references/_previews/27_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 28,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-ac3d-76cb-a743-885b219cb63d.jpg",
+      "path": "artwork/source/references/etsy/puppy/28_01a103ef-ac3d-76cb-a743-885b219cb63d.jpg",
+      "preview_path": "artwork/source/references/_previews/28_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 29,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-ac8e-756b-b410-99a2988df105.jpg",
+      "path": "artwork/source/references/etsy/puppy/29_01a103ef-ac8e-756b-b410-99a2988df105.jpg",
+      "preview_path": "artwork/source/references/_previews/29_etsy_puppy.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 30,
+      "character_id": "etsy",
+      "life_stage": "puppy",
+      "original_filename": "01a103ef-acca-7c56-b136-35be856157cd.jpg",
+      "path": "artwork/source/references/etsy/puppy/30_01a103ef-acca-7c56-b136-35be856157cd.jpg",
+      "preview_path": "artwork/source/references/_previews/30_etsy_puppy.jpg",
+      "width_px": 2316,
+      "height_px": 3088
+    },
+    {
+      "index": 31,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-acfd-78e3-80bb-16084d231471.jpg",
+      "path": "artwork/source/references/etsy/adult/31_01a103ef-acfd-78e3-80bb-16084d231471.jpg",
+      "preview_path": "artwork/source/references/_previews/31_etsy_adult.jpg",
+      "width_px": 2316,
+      "height_px": 3088
+    },
+    {
+      "index": 32,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-ad5a-77fa-b5ad-eb1101102f63.jpg",
+      "path": "artwork/source/references/etsy/adult/32_01a103ef-ad5a-77fa-b5ad-eb1101102f63.jpg",
+      "preview_path": "artwork/source/references/_previews/32_etsy_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712
+    },
+    {
+      "index": 33,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-ada4-7f18-b9ed-bf4612cd00dd.jpg",
+      "path": "artwork/source/references/etsy/adult/33_01a103ef-ada4-7f18-b9ed-bf4612cd00dd.jpg",
+      "preview_path": "artwork/source/references/_previews/33_etsy_adult.jpg",
+      "width_px": 4032,
+      "height_px": 3024
+    },
+    {
+      "index": 34,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-adf5-739c-bc10-141879c3fcbe.jpg",
+      "path": "artwork/source/references/etsy/adult/34_01a103ef-adf5-739c-bc10-141879c3fcbe.jpg",
+      "preview_path": "artwork/source/references/_previews/34_etsy_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032
+    },
+    {
+      "index": 35,
+      "character_id": "coco",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-ae41-76d4-98bf-8d807d665beb.jpg",
+      "path": "artwork/source/references/coco/adult/35_01a103ef-ae41-76d4-98bf-8d807d665beb.jpg",
+      "preview_path": "artwork/source/references/_previews/35_coco_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Assigned to Coco: flatter brachycephalic face and upright bat-like ears among plush pile."
+    },
+    {
+      "index": 36,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-aeac-7ff5-984e-575547cfd0e6.jpg",
+      "path": "artwork/source/references/etsy/adult/36_01a103ef-aeac-7ff5-984e-575547cfd0e6.jpg",
+      "preview_path": "artwork/source/references/_previews/36_etsy_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712
+    },
+    {
+      "index": 37,
+      "character_id": "coco",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-af20-79b0-92dc-1b21a071d192.jpg",
+      "path": "artwork/source/references/coco/adult/37_01a103ef-af20-79b0-92dc-1b21a071d192.jpg",
+      "preview_path": "artwork/source/references/_previews/37_coco_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712,
+      "note": "Assigned to Coco: sleeping brachycephalic profile among blankets."
+    },
+    {
+      "index": 38,
+      "character_id": "coco",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-af88-7876-b833-cc4b59bfcdcc.jpg",
+      "path": "artwork/source/references/coco/adult/38_01a103ef-af88-7876-b833-cc4b59bfcdcc.jpg",
+      "preview_path": "artwork/source/references/_previews/38_coco_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712,
+      "note": "Assigned to Coco: Frenchie-type dog among plush toys on teal blanket."
+    },
+    {
+      "index": 39,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-afc4-7327-ad21-727f03864686.jpg",
+      "path": "artwork/source/references/etsy/adult/39_01a103ef-afc4-7327-ad21-727f03864686.jpg",
+      "preview_path": "artwork/source/references/_previews/39_etsy_adult.jpg",
+      "width_px": 2316,
+      "height_px": 3088
+    },
+    {
+      "index": 40,
+      "character_id": "coco",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-b011-724e-86fa-967dfb08cb03.jpg",
+      "path": "artwork/source/references/coco/adult/40_01a103ef-b011-724e-86fa-967dfb08cb03.jpg",
+      "preview_path": "artwork/source/references/_previews/40_coco_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Assigned to Coco: bat ears and flat face resting on brown plush."
+    },
+    {
+      "index": 41,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-b070-76ac-aeb5-58c32d8ff644.jpg",
+      "path": "artwork/source/references/etsy/adult/41_01a103ef-b070-76ac-aeb5-58c32d8ff644.jpg",
+      "preview_path": "artwork/source/references/_previews/41_etsy_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712
+    },
+    {
+      "index": 42,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-b0cf-709c-b9de-7b13c493882a.jpg",
+      "path": "artwork/source/references/etsy/adult/42_01a103ef-b0cf-709c-b9de-7b13c493882a.jpg",
+      "preview_path": "artwork/source/references/_previews/42_etsy_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712
+    },
+    {
+      "index": 43,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-b12c-78ec-b042-f2904d2d3fbd.jpg",
+      "path": "artwork/source/references/etsy/adult/43_01a103ef-b12c-78ec-b042-f2904d2d3fbd.jpg",
+      "preview_path": "artwork/source/references/_previews/43_etsy_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712
+    },
+    {
+      "index": 44,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-b18c-7c79-a637-d17826112ade.jpg",
+      "path": "artwork/source/references/etsy/adult/44_01a103ef-b18c-7c79-a637-d17826112ade.jpg",
+      "preview_path": "artwork/source/references/_previews/44_etsy_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712
+    },
+    {
+      "index": 45,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-b1e8-7485-b5e6-3ae87c0f9286.jpg",
+      "path": "artwork/source/references/etsy/adult/45_01a103ef-b1e8-7485-b5e6-3ae87c0f9286.jpg",
+      "preview_path": "artwork/source/references/_previews/45_etsy_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712
+    },
+    {
+      "index": 46,
+      "character_id": "etsy",
+      "life_stage": "adult",
+      "original_filename": "01a103ef-b245-7652-8787-ce1a5a022834.jpg",
+      "path": "artwork/source/references/etsy/adult/46_01a103ef-b245-7652-8787-ce1a5a022834.jpg",
+      "preview_path": "artwork/source/references/_previews/46_etsy_adult.jpg",
+      "width_px": 4284,
+      "height_px": 5712
+    }
+  ]
+}

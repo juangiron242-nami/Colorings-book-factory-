@@ -5,9 +5,14 @@
       "name": "Etsy",
       "species": "dog",
       "role": "daughter pit bull",
-      "approval_status": "draft",
-      "visual_notes": "Named in product brief only. No approved likeness locked in-repo; await source references before locking model.",
-      "source_refs": []
+      "approval_status": "in_review",
+      "visual_notes": "From reference photo batch (42 images across newborn/puppy/adult): short smooth coat that reads blue-fawn/grayish-tan as a puppy and warmer tan/fawn as an adult; white chest patch; white on paws; white chin/muzzle markings especially as a pup; broad bully-breed head; dark eyes; black nose; ears rose/semi-erect as adult. Likeness not yet human-approved for final art lock.",
+      "source_refs": [
+        "artwork/source/references/etsy/newborn/",
+        "artwork/source/references/etsy/puppy/",
+        "artwork/source/references/etsy/adult/",
+        "artwork/source/references/MANIFEST.json"
+      ]
     },
     {
       "character_id": "smoky",
@@ -15,7 +20,7 @@
       "species": "dog",
       "role": "gray father pit bull",
       "approval_status": "draft",
-      "visual_notes": "Named in product brief as gray father pit bull. No approved likeness images in-repo yet.",
+      "visual_notes": "Named in product brief as gray father pit bull. No clear photos of Smoky in the Oct 2026 reference batch; do not invent traits.",
       "source_refs": []
     },
     {
@@ -24,7 +29,7 @@
       "species": "dog",
       "role": "mother (deceased)",
       "approval_status": "draft",
-      "visual_notes": "Named in product brief. No approved likeness images in-repo yet; do not invent traits.",
+      "visual_notes": "Named in product brief. No clear adult likeness photos in this batch; do not invent traits. Photo #01 also shows a second newborn sibling beside Etsy — identity not locked.",
       "source_refs": []
     },
     {
@@ -33,7 +38,7 @@
       "species": "cat",
       "role": "black cat",
       "approval_status": "draft",
-      "visual_notes": "Named in product brief as black cat. No approved likeness images in-repo yet.",
+      "visual_notes": "Named in product brief as black cat. No photos of Luna in this reference batch; do not invent traits.",
       "source_refs": []
     },
     {
@@ -41,9 +46,12 @@
       "name": "Coco",
       "species": "dog",
       "role": "Frenchie",
-      "approval_status": "draft",
-      "visual_notes": "Named in product brief as Frenchie. No approved likeness images in-repo yet.",
-      "source_refs": []
+      "approval_status": "in_review",
+      "visual_notes": "From 4 photos provisionally tagged as Coco: fawn/tan short coat; brachycephalic flat wrinkled face; large upright bat-like ears; dark eyes and nose; often nestled among plush toys and cozy blankets. Operator should confirm these tags vs Etsy adult shots before likeness lock.",
+      "source_refs": [
+        "artwork/source/references/coco/adult/",
+        "artwork/source/references/MANIFEST.json"
+      ]
     }
   ]
 }
