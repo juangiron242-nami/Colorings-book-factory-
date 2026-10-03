@@ -20,10 +20,70 @@
   ],
   "scenes": [
     {
+      "scene_id": "newborn-sleep",
+      "title": "Newborn nap",
+      "description": "Baby Etsy asleep on a soft towel. Thick outlines, large open areas.",
+      "page_number": 1,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "artwork": {
+        "source_path": "artwork/source/newborn-sleep.png",
+        "approved_path": "artwork/approved/newborn-sleep.png"
+      }
+    },
+    {
+      "scene_id": "box-nest",
+      "title": "Cozy box nest",
+      "description": "Puppy Etsy peeking from a blanket-lined box nest.",
+      "page_number": 2,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "artwork": {
+        "source_path": "artwork/source/box-nest.png",
+        "approved_path": "artwork/approved/box-nest.png"
+      }
+    },
+    {
+      "scene_id": "bottle-time",
+      "title": "Bottle time",
+      "description": "Little Etsy being bottle-fed. One clear caring moment.",
+      "page_number": 3,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "artwork": {
+        "source_path": "artwork/source/bottle-time.png",
+        "approved_path": "artwork/approved/bottle-time.png"
+      }
+    },
+    {
+      "scene_id": "bow-day",
+      "title": "Bow day",
+      "description": "Puppy Etsy with ribbon bows. Simple and cheerful.",
+      "page_number": 4,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "artwork": {
+        "source_path": "artwork/source/bow-day.png",
+        "approved_path": "artwork/approved/bow-day.png"
+      }
+    },
+    {
       "scene_id": "bed-cozy",
       "title": "Sharing a cozy bed",
-      "description": "Etsy the puppy and Luna the kitten sharing a cozy bed. Thick outlines, large open areas for young children.",
-      "page_number": 1,
+      "description": "Etsy and Luna sharing a cozy bed.",
+      "page_number": 5,
       "character_ids": [
         "etsy",
         "luna"
@@ -38,8 +98,8 @@
     {
       "scene_id": "garden-play",
       "title": "Garden play",
-      "description": "Etsy and Coco playing with a ball in the garden. One clear activity; minimal clutter.",
-      "page_number": 2,
+      "description": "Etsy and Coco playing ball in the garden.",
+      "page_number": 6,
       "character_ids": [
         "etsy",
         "coco"
@@ -52,10 +112,55 @@
       }
     },
     {
+      "scene_id": "car-buddy",
+      "title": "Car buddy",
+      "description": "Etsy riding along in the car seat.",
+      "page_number": 7,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "artwork": {
+        "source_path": "artwork/source/car-buddy.png",
+        "approved_path": "artwork/approved/car-buddy.png"
+      }
+    },
+    {
+      "scene_id": "rainy-day",
+      "title": "Rainy-day relaxation",
+      "description": "Etsy napping by the window on a rainy day.",
+      "page_number": 8,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "artwork": {
+        "source_path": "artwork/source/rainy-day.png",
+        "approved_path": "artwork/approved/rainy-day.png"
+      }
+    },
+    {
+      "scene_id": "happy-smile",
+      "title": "Happy smile",
+      "description": "Etsy\u2019s big happy smile with favorite toys.",
+      "page_number": 9,
+      "character_ids": [
+        "etsy"
+      ],
+      "approval_status": "approved",
+      "art_status": "approved",
+      "artwork": {
+        "source_path": "artwork/source/happy-smile.png",
+        "approved_path": "artwork/approved/happy-smile.png"
+      }
+    },
+    {
       "scene_id": "picnic",
       "title": "Picnic",
-      "description": "Coco the Frenchie and Luna the kitten at a simple picnic. Large open coloring regions.",
-      "page_number": 3,
+      "description": "Coco and Luna at a simple picnic.",
+      "page_number": 10,
       "character_ids": [
         "coco",
         "luna"
@@ -65,21 +170,6 @@
       "artwork": {
         "source_path": "artwork/source/picnic.png",
         "approved_path": "artwork/approved/picnic.png"
-      }
-    },
-    {
-      "scene_id": "rainy-day",
-      "title": "Rainy-day relaxation",
-      "description": "Etsy relaxing indoors on a rainy day by the window. Calm, cozy, one clear subject for beginning colorers.",
-      "page_number": 4,
-      "character_ids": [
-        "etsy"
-      ],
-      "approval_status": "approved",
-      "art_status": "approved",
-      "artwork": {
-        "source_path": "artwork/source/rainy-day.png",
-        "approved_path": "artwork/approved/rainy-day.png"
       }
     }
   ],
@@ -101,7 +191,7 @@
     "marketplace": "Amazon KDP",
     "cover": {
       "source_path": "artwork/cover/source/cover_wrap.png",
-      "last_page_count": 4
+      "last_page_count": 10
     }
   },
   "output_status": "ready"
