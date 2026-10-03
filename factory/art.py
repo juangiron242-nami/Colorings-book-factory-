@@ -207,7 +207,10 @@ def young_child_qc(image_path: Path | str, *, scene_id: str | None = None) -> Ar
     with Image.open(image_path) as img:
         gray = img.convert("L")
         width, height = gray.size
-        pixels = list(gray.getdata())
+        if hasattr(gray, "get_flattened_data"):
+            pixels = list(gray.get_flattened_data())
+        else:
+            pixels = list(gray.getdata())
         total = len(pixels)
         if total == 0:
             return ArtCheckResult(

@@ -54,6 +54,22 @@ def cmd_build_cover(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_metadata(args: argparse.Namespace) -> int:
+    from factory.metadata import export_metadata
+
+    path = export_metadata(args.book_dir, repo_root=_repo_root())
+    print(path)
+    return 0
+
+
+def cmd_royalty(args: argparse.Namespace) -> int:
+    from factory.royalty import export_royalty
+
+    path = export_royalty(args.book_dir, repo_root=_repo_root())
+    print(path)
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="cbf", description="Coloring Book Factory")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -77,6 +93,14 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("build-cover", help="Build cover from final interior parameters")
     p.add_argument("book_dir", type=Path)
     p.set_defaults(func=cmd_build_cover)
+
+    p = sub.add_parser("metadata", help="Export publishing metadata JSON")
+    p.add_argument("book_dir", type=Path)
+    p.set_defaults(func=cmd_metadata)
+
+    p = sub.add_parser("royalty", help="Export royalty/profit summary")
+    p.add_argument("book_dir", type=Path)
+    p.set_defaults(func=cmd_royalty)
 
     return parser
 

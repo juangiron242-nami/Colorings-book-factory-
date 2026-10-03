@@ -1,0 +1,9 @@
+{
+  "list_price_usd": 7.99,
+  "printing_cost_usd": 2.15,
+  "marketplace": "Amazon KDP",
+  "royalty_rate": 0.6,
+  "royalty_rate_note": "Provisional 60% paperback assumption; confirm against current KDP terms and territory before release.",
+  "currency": "USD",
+  "units_for_projection": 100
+}
