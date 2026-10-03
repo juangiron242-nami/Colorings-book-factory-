@@ -1,0 +1,26 @@
+{
+  "book_id": "BOOK_ID",
+  "title": "BOOK_TITLE",
+  "audience": "AUDIENCE",
+  "theme": "THEME",
+  "layout": {
+    "trim_width_in": 8.5,
+    "trim_height_in": 8.5,
+    "margin_in": 0.5,
+    "bleed_in": 0.125,
+    "dpi": 300
+  },
+  "character_ids": [],
+  "scenes": [],
+  "art_status": "missing",
+  "publishing": {
+    "subtitle": "",
+    "description": "",
+    "keywords": [],
+    "categories": [],
+    "author": "",
+    "imprint": "",
+    "language": "en"
+  },
+  "output_status": "not_started"
+}
