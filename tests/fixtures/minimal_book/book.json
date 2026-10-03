@@ -1,0 +1,36 @@
+{
+  "book_id": "minimal-demo",
+  "title": "Minimal Demo Book",
+  "audience": "operators / schema validation",
+  "theme": "generic shapes for factory tests",
+  "layout": {
+    "trim_width_in": 8.5,
+    "trim_height_in": 8.5,
+    "margin_in": 0.5,
+    "bleed_in": 0.125,
+    "dpi": 300
+  },
+  "character_ids": ["char-a"],
+  "scenes": [
+    {
+      "scene_id": "scene-01",
+      "title": "Simple subject",
+      "description": "One clear subject for schema validation.",
+      "page_number": 1,
+      "character_ids": ["char-a"],
+      "approval_status": "approved",
+      "art_status": "missing"
+    }
+  ],
+  "art_status": "missing",
+  "publishing": {
+    "subtitle": "",
+    "description": "",
+    "keywords": [],
+    "categories": [],
+    "author": "",
+    "imprint": "",
+    "language": "en"
+  },
+  "output_status": "not_started"
+}

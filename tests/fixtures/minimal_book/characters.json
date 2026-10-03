@@ -1,0 +1,13 @@
+{
+  "characters": [
+    {
+      "character_id": "char-a",
+      "name": "Character A",
+      "species": "unspecified",
+      "role": "subject",
+      "approval_status": "draft",
+      "visual_notes": "No locked likeness; fixture only.",
+      "source_refs": []
+    }
+  ]
+}
