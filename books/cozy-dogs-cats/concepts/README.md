@@ -1,13 +1,15 @@
 # Concepts — cozy-dogs-cats
 
-**50-page young-kid coloring book**
+Baseline publishing spec (PRODUCT_PRD):
 
-### Pages 1–20 — Puppy Etsy
-1–10 core puppy moments, then 11–20 with richer toys/backgrounds  
-(toy pile, yard, bath, snack, training, rain walk, bedtime, playground, birthday, blanket fort).
+- Ages 3–5
+- Trim 8.5" × 11" paperback
+- 50 unique B&W coloring illustrations
+- One illustration per sheet front; blank back
+- Front matter: title, belongs-to, copyright
+- No interior bleed; ~100–110 total PDF pages
 
-### Pages 21–50 — Mature Etsy
-21–29 core grown-up moments, then 30–50 fuller scenes  
-(park, beach, movie night, kitchen, laundry, camp, garden, ice cream, vet, snow, market, spa, library, paint, music, bakery, balloons, pizza, stars, morning, family cozy).
+## Illustration order
 
-New pages intentionally add more background layers, toys, and little scene props while keeping thick outlines and large open coloring areas for young kids.
+Pages 1–20 puppy Etsy section, pages 21–50 mature Etsy section
+(see `book.json` scenes). Interior PDF inserts blank backs and front matter.

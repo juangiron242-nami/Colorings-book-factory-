@@ -1,11 +1,13 @@
 # Notes — cozy-dogs-cats
 
-- 46 operator reference photos are in `artwork/source/references/`.
-- Art v3 expands the interior to **10 pages** drawn from those photos
-  (Etsy life moments) plus Coco/Luna friend scenes.
-- Prior art versions preserved under `artwork/source/archive_v2/` and
-  `generated_masters/`.
-- Smoky and Fat Girl remain in the roster; no separate confirmed photo
-  set was isolated for them in the batch (most images are Etsy’s growth
-  arc). Additional labeled refs can unlock dedicated pages.
-- KDP trim still provisional until format is confirmed.
+Baseline publishing specification applied:
+
+- Ages 3–5
+- 8.5" × 11" paperback, no interior bleed, 0.5" margins
+- 50 unique B&W illustrations
+- Single-sided art with blank backs
+- Front matter: title, belongs-to, copyright
+- Assembled interior target ~100–110 pages (currently 103)
+- Cover dimensions derive from final interior page count
+
+Artwork remains thick-outline / large-open-area style for little kids.

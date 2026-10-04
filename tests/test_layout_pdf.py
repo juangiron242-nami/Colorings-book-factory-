@@ -5,17 +5,16 @@ from pypdf import PdfReader
 from factory.art import approve_artwork, create_placeholder_line_art, import_source
 from factory.io import load_json, save_json
 from factory.layout import geometry_from_book
-from factory.pdf import build_interior_pdf
+from factory.pdf import build_interior_pdf, expected_pdf_page_count
 
 
-def _book_with_art(tmp_path: Path) -> Path:
+def _book_with_art(tmp_path: Path, *, blank_backs: bool = False, front_matter: list[str] | None = None) -> Path:
     src = Path(__file__).parent / "fixtures" / "minimal_book"
     book_dir = tmp_path / "book"
     book_dir.mkdir()
     (book_dir / "artwork" / "source").mkdir(parents=True)
     (book_dir / "artwork" / "approved").mkdir(parents=True)
     book = load_json(src / "book.json")
-    # Add a second page to verify order.
     book["scenes"].append(
         {
             "scene_id": "scene-02",
@@ -27,6 +26,14 @@ def _book_with_art(tmp_path: Path) -> Path:
             "art_status": "missing",
         }
     )
+    if blank_backs or front_matter:
+        book["printing"] = {
+            "format": "paperback",
+            "color": "black_and_white",
+            "blank_backs": blank_backs,
+            "front_matter": front_matter or [],
+            "individual_pages": True,
+        }
     save_json(book_dir / "book.json", book)
     save_json(book_dir / "characters.json", load_json(src / "characters.json"))
     for scene_id in ("scene-01", "scene-02"):
@@ -57,4 +64,30 @@ def test_build_interior_pdf(tmp_path: Path):
     assert len(reader.pages) == 2
     manifest = load_json(repo / "output" / "minimal-demo" / "build_manifest.json")
     assert manifest["page_count"] == 2
-    assert [p["scene_id"] for p in manifest["pages"]] == ["scene-01", "scene-02"]
+    assert manifest["illustration_order"] == ["scene-01", "scene-02"]
+
+
+def test_build_interior_with_front_matter_and_blank_backs(tmp_path: Path):
+    book_dir = _book_with_art(
+        tmp_path,
+        blank_backs=True,
+        front_matter=["title", "belongs_to", "copyright"],
+    )
+    book = load_json(book_dir / "book.json")
+    assert expected_pdf_page_count(book) == 3 + 2 * 2
+    repo = tmp_path / "repo"
+    repo.mkdir()
+    pdf_path = build_interior_pdf(book_dir, repo_root=repo)
+    reader = PdfReader(str(pdf_path))
+    assert len(reader.pages) == 7
+    manifest = load_json(repo / "output" / "minimal-demo" / "build_manifest.json")
+    types = [p["type"] for p in manifest["pages"]]
+    assert types == [
+        "front_matter",
+        "front_matter",
+        "front_matter",
+        "illustration",
+        "blank_back",
+        "illustration",
+        "blank_back",
+    ]

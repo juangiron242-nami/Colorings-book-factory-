@@ -1,15 +1,15 @@
 {
   "book_id": "cozy-dogs-cats",
   "title": "Cozy Dogs and Cats",
-  "audience": "Very young children beginning to color; parent is the buyer",
+  "audience": "Children ages 3\u20135 beginning to color; parent is the buyer",
   "theme": "Original cozy dogs-and-cats everyday moments",
   "layout": {
     "trim_width_in": 8.5,
-    "trim_height_in": 8.5,
+    "trim_height_in": 11.0,
     "margin_in": 0.5,
-    "bleed_in": 0.125,
+    "bleed_in": 0.0,
     "dpi": 300,
-    "notes": "Provisional 8.5in square trim; 50-page young-child interior near common KDP coloring-book length."
+    "notes": "Baseline spec: 8.5x11 paperback, no interior bleed, content inside 0.5in margins."
   },
   "character_ids": [
     "etsy",
@@ -834,8 +834,8 @@
   ],
   "art_status": "approved",
   "publishing": {
-    "subtitle": "50 cozy pages \u2014 puppy days to grown-up Etsy",
-    "description": "An original cozy dogs-and-cats coloring book for very young children who are just beginning to color.",
+    "subtitle": "A cozy coloring book for ages 3\u20135",
+    "description": "Fifty original black-and-white coloring illustrations for little kids ages 3\u20135. One drawing per sheet with a blank back to help prevent bleed-through.",
     "keywords": [
       "coloring book",
       "dogs",
@@ -850,8 +850,22 @@
     "marketplace": "Amazon KDP",
     "cover": {
       "source_path": "artwork/cover/source/cover_wrap.png",
-      "last_page_count": 50
+      "last_page_count": 103
     }
   },
-  "output_status": "ready"
+  "output_status": "ready",
+  "printing": {
+    "format": "paperback",
+    "color": "black_and_white",
+    "blank_backs": true,
+    "front_matter": [
+      "title",
+      "belongs_to",
+      "copyright"
+    ],
+    "individual_pages": true,
+    "target_illustration_count": 50,
+    "target_total_pages_min": 100,
+    "target_total_pages_max": 110
+  }
 }
