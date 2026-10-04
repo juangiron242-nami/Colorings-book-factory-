@@ -1,15 +1,14 @@
 {
   "book_id": "cozy-dogs-cats",
   "description": "Operator-supplied character reference photos imported for likeness locking.",
-  "missing_in_this_batch": [
-    "luna"
-  ],
+  "missing_in_this_batch": [],
   "notes": [
-    "Luna (black cat) is not clearly present in this photo batch — do not invent traits.",
+    "All named characters now have photo refs in this batch (Etsy, Smoky, Fat Girl, Coco, Luna).",
     "Coco assignments are based on brachycephalic/Frenchie traits vs Etsy pit-bull growth series; operator may re-tag.",
     "Parent batch 2026-10-04: Smoky (aka Smoking) is blue/charcoal gray father; Fat Girl is tan/fawn mother.",
     "Main character full name: Etsy Penelope Sochi (first, middle, last).",
-    "Parents of Etsy Penelope Sochi: Smoky (dad) and Fat Girl (mom)."
+    "Parents of Etsy Penelope Sochi: Smoky (dad) and Fat Girl (mom).",
+    "Luna batch 2026-10-04: solid black domestic shorthair with yellow-green/gold eyes."
   ],
   "photos": [
     {
@@ -692,6 +691,61 @@
       "height_px": 4032,
       "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
       "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 65,
+      "character_id": "luna",
+      "life_stage": "adult",
+      "original_filename": "01a107c3-75eb-783d-9187-00550dccf84f.jpg",
+      "path": "artwork/source/references/luna/adult/65_01a107c3-75eb-783d-9187-00550dccf84f.jpg",
+      "preview_path": "artwork/source/references/_previews/65_luna_adult.jpg",
+      "width_px": 4032,
+      "height_px": 3024,
+      "note": "Luna: solid black short-haired cat, resting among blankets; yellow-green eyes; long whiskers."
+    },
+    {
+      "index": 66,
+      "character_id": "luna",
+      "life_stage": "adult",
+      "original_filename": "01a107c3-7624-720b-af28-c5fb94566a21.jpg",
+      "path": "artwork/source/references/luna/adult/66_01a107c3-7624-720b-af28-c5fb94566a21.jpg",
+      "preview_path": "artwork/source/references/_previews/66_luna_adult.jpg",
+      "width_px": 4032,
+      "height_px": 3024,
+      "note": "Luna: face close-up, solid black coat, large round yellow-green eyes, black nose, alert ears."
+    },
+    {
+      "index": 67,
+      "character_id": "luna",
+      "life_stage": "adult",
+      "original_filename": "01a107c3-765f-7e64-a841-f3f1383bdc81.jpg",
+      "path": "artwork/source/references/luna/adult/67_01a107c3-765f-7e64-a841-f3f1383bdc81.jpg",
+      "preview_path": "artwork/source/references/_previews/67_luna_adult.jpg",
+      "width_px": 4032,
+      "height_px": 3024,
+      "note": "Luna: overhead face view, solid black coat, bright yellow-green eyes looking at camera."
+    },
+    {
+      "index": 68,
+      "character_id": "luna",
+      "life_stage": "adult",
+      "original_filename": "01a107c3-7699-719c-8eac-a60829b4e6a3.jpg",
+      "path": "artwork/source/references/luna/adult/68_01a107c3-7699-719c-8eac-a60829b4e6a3.jpg",
+      "preview_path": "artwork/source/references/_previews/68_luna_adult.jpg",
+      "width_px": 4032,
+      "height_px": 3024,
+      "note": "Luna: curled on bed among pillows/blankets; solid black short coat; back and ears visible."
+    },
+    {
+      "index": 69,
+      "character_id": "luna",
+      "life_stage": "adult",
+      "original_filename": "01a107c3-76ca-728c-bc46-e87a7bfd70ac.jpg",
+      "path": "artwork/source/references/luna/adult/69_01a107c3-76ca-728c-bc46-e87a7bfd70ac.jpg",
+      "preview_path": "artwork/source/references/_previews/69_luna_adult.jpg",
+      "width_px": 4032,
+      "height_px": 3024,
+      "note": "Luna: head-and-shoulders portrait, solid black coat, large yellow-gold eyes, long whiskers."
     }
   ]
 }

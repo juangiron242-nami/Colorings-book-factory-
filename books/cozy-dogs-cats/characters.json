@@ -17,7 +17,9 @@
     {
       "character_id": "smoky",
       "name": "Smoky",
-      "aka": ["Smoking"],
+      "aka": [
+        "Smoking"
+      ],
       "species": "dog",
       "role": "father pit bull (dad of Etsy Penelope Sochi)",
       "approval_status": "in_review",
@@ -43,10 +45,13 @@
       "character_id": "luna",
       "name": "Luna",
       "species": "cat",
-      "role": "black cat",
-      "approval_status": "draft",
-      "visual_notes": "Named in product brief as black cat. No photos of Luna in this reference batch; do not invent traits.",
-      "source_refs": []
+      "role": "black cat friend",
+      "approval_status": "in_review",
+      "visual_notes": "From 5 adult reference photos (2026-10-04): solid black short dense coat; domestic shorthair; large round yellow-green/gold eyes with vertical pupils; black nose; long thin whiskers (some catch light as lighter); pointed upright ears; rounded broad face; medium stocky build. Often nestled in cozy blankets/pillows. One photo shows a temporary shaved patch on a front leg (vet site) \u2014 omit from coloring-book likeness unless operator requests it. Likeness not yet human-approved for final art lock.",
+      "source_refs": [
+        "artwork/source/references/luna/adult/",
+        "artwork/source/references/MANIFEST.json"
+      ]
     },
     {
       "character_id": "coco",

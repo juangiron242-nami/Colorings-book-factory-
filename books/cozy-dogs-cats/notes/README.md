@@ -16,7 +16,7 @@ Baseline publishing specification applied:
 - **Smoky** (aka Smoking) — blue/charcoal gray father pit bull
 - **Fat Girl** — tan/fawn mother pit bull
 - **Coco** — Frenchie friend
-- **Luna** — black cat friend (no photo refs yet)
+- **Luna** — solid black cat friend (5 adult refs)
 
 Parent reference photos imported under `artwork/source/references/smoky/` and
 `fat-girl/`. Eight family/parent pages added into the 50-illustration set.

@@ -11,8 +11,8 @@ def test_reference_manifest_present_and_linked():
     assert MANIFEST.is_file()
     manifest = load_json(MANIFEST)
     assert manifest["book_id"] == "cozy-dogs-cats"
-    # 42 Etsy + 4 Coco + 13 Smoky + 5 Fat Girl = 64
-    assert len(manifest["photos"]) == 64
+    # 42 Etsy + 4 Coco + 13 Smoky + 5 Fat Girl + 5 Luna = 69
+    assert len(manifest["photos"]) == 69
     for photo in manifest["photos"]:
         assert (BOOK / photo["path"]).is_file()
 
@@ -23,6 +23,7 @@ def test_reference_manifest_present_and_linked():
     assert counts["smoky"] == 13
     assert counts["fat-girl"] == 5
     assert counts["coco"] == 4
+    assert counts["luna"] == 5
 
     book, characters = load_book(BOOK)
     assert book["book_id"] == "cozy-dogs-cats"
@@ -31,7 +32,8 @@ def test_reference_manifest_present_and_linked():
     assert by_id["coco"]["source_refs"]
     assert by_id["smoky"]["source_refs"]
     assert by_id["fat-girl"]["source_refs"]
+    assert by_id["luna"]["source_refs"]
     assert by_id["etsy"]["name"] == "Etsy Penelope Sochi"
     assert by_id["etsy"]["approval_status"] == "in_review"
-    assert by_id["luna"]["source_refs"] == []
-    assert manifest["missing_in_this_batch"] == ["luna"]
+    assert by_id["luna"]["approval_status"] == "in_review"
+    assert manifest["missing_in_this_batch"] == []

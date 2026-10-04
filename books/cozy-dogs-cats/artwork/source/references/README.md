@@ -10,6 +10,7 @@ Imported operator reference photos for likeness work.
 - `etsy/{newborn,puppy,adult}/` — 42 photos (growth series + adult)
 - `smoky/adult/` — 13 photos (blue/charcoal gray father, aka Smoking)
 - `fat-girl/adult/` — 5 photos (tan/fawn mother)
+- `luna/adult/` — 5 photos (solid black domestic shorthair)
 - `coco/adult/` — 4 photos provisionally tagged as Coco (Frenchie traits)
 - `_previews/` — small JPEGs for quick browsing (not a substitute for originals)
 
@@ -21,7 +22,7 @@ Imported operator reference photos for likeness work.
 | Smoky (aka Smoking) | Yes | 13 |
 | Fat Girl | Yes | 5 |
 | Coco | Provisional yes | 4 |
-| Luna | Pending upload | 0 (folders ready: `luna/adult/`, `luna/kitten/`) |
+| Luna | Yes | 5 |
 
 ## Rules
 
