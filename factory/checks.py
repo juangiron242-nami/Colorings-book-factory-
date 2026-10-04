@@ -13,6 +13,7 @@ from PIL import Image
 from factory.art import check_missing_assets, young_child_qc
 from factory.io import load_book
 from factory.layout import geometry_from_book, ordered_scenes
+from factory.pdf import expected_pdf_page_count, printing_options
 from factory.schema import ArtStatus
 
 
@@ -104,14 +105,12 @@ def run_preflight(
             path = book_dir / approved_rel
             with Image.open(path) as img:
                 width, height = img.size
-            min_px_w = int(geo.trim_width_in * geo.dpi)
-            min_px_h = int(geo.trim_height_in * geo.dpi)
-            # Effective resolution vs trim at configured DPI.
-            if width < min_px_w * 0.9 or height < min_px_h * 0.9:
+            min_px = int(min(geo.trim_width_in, geo.trim_height_in) * geo.dpi * 0.85)
+            if min(width, height) < min_px:
                 _add(
                     issues,
                     "low_resolution",
-                    f"Scene {sid} image {width}x{height} below ~{min_px_w}x{min_px_h} @ {geo.dpi}dpi",
+                    f"Scene {sid} image {width}x{height} below ~{min_px}px on shortest side @ {geo.dpi}dpi",
                     scene_id=sid,
                     severity="warning",
                 )
@@ -144,19 +143,32 @@ def run_preflight(
         _add(issues, "missing_build_artifact", f"Build manifest missing: {manifest_path}")
     else:
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-        if manifest.get("page_count") != len(scenes):
+        expected_pages = expected_pdf_page_count(book)
+        if manifest.get("page_count") != expected_pages:
             _add(
                 issues,
                 "stale_build_artifact",
-                f"Manifest page_count={manifest.get('page_count')} != scenes={len(scenes)}",
+                f"Manifest page_count={manifest.get('page_count')} != expected {expected_pages}",
             )
-        manifest_ids = [p.get("scene_id") for p in manifest.get("pages", [])]
+        if manifest.get("illustration_count") not in (None, len(scenes)):
+            _add(
+                issues,
+                "stale_build_artifact",
+                f"Manifest illustration_count={manifest.get('illustration_count')} != scenes={len(scenes)}",
+            )
+        manifest_ids = manifest.get("illustration_order") or [
+            p.get("scene_id")
+            for p in manifest.get("pages", [])
+            if p.get("type") == "illustration" or p.get("scene_id")
+        ]
+        # Filter blanks/front matter if older manifests mixed ids
+        manifest_ids = [i for i in manifest_ids if i]
         expected_ids = [s["scene_id"] for s in scenes]
         if manifest_ids != expected_ids:
             _add(
                 issues,
                 "stale_build_artifact",
-                "Manifest page order/scene ids do not match book.json",
+                "Manifest illustration order/scene ids do not match book.json",
             )
         m_layout = manifest.get("layout") or {}
         for key in ("trim_width_in", "trim_height_in", "margin_in", "bleed_in", "dpi"):
@@ -167,6 +179,21 @@ def run_preflight(
                     f"Manifest layout.{key} mismatches book.layout",
                 )
                 break
+        opts = printing_options(book)
+        if opts.get("blank_backs") and expected_pages < 100:
+            _add(
+                issues,
+                "page_target_short",
+                f"Assembled {expected_pages} pages; baseline target is about 100–110",
+                severity="warning",
+            )
+        if opts.get("blank_backs") and expected_pages > 110:
+            _add(
+                issues,
+                "page_target_long",
+                f"Assembled {expected_pages} pages; baseline target is about 100–110",
+                severity="warning",
+            )
 
     errors = [i for i in issues if i.severity == "error"]
     report = PreflightReport(
@@ -176,6 +203,7 @@ def run_preflight(
         issues=issues,
         summary={
             "scene_count": len(scenes),
+            "expected_pdf_pages": expected_pdf_page_count(book),
             "error_count": len(errors),
             "warning_count": len(issues) - len(errors),
             "interior_pdf": str(pdf_path) if pdf_path.is_file() else None,

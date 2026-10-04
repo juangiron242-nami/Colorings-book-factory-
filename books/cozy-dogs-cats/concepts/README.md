@@ -1,11 +1,15 @@
 # Concepts — cozy-dogs-cats
 
-Approved scene concepts for the first book (from PRODUCT_PRD / slices):
+Baseline publishing spec (PRODUCT_PRD):
 
-1. `bed-cozy` — puppy/kitten sharing a bed
-2. `garden-play` — garden play
-3. `picnic` — picnic
-4. `rainy-day` — rainy-day relaxation
+- Ages 3–5
+- Trim 8.5" × 11" paperback
+- 50 unique B&W coloring illustrations
+- One illustration per sheet front; blank back
+- Front matter: title, belongs-to, copyright
+- No interior bleed; ~100–110 total PDF pages
 
-Detailed records live in `../book.json` under `scenes`.
-Artwork will be attached via the art pipeline (slice 03).
+## Illustration order
+
+Pages 1–20 puppy Etsy section, pages 21–50 mature Etsy section
+(see `book.json` scenes). Interior PDF inserts blank backs and front matter.
