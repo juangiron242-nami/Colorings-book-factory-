@@ -1,0 +1,64 @@
+AMAZON KDP COPY-PASTE
+=====================
+
+TITLE:
+Cozy Dogs and Cats
+
+SUBTITLE:
+A cozy Bay Area coloring book for ages 3-5
+
+AUTHOR:
+Joney Giron
+
+DESCRIPTION:
+Meet Etsy Penelope Sochi - a sweet pit-bull pup growing up around the San Francisco Bay with dad Smoky, mom Fat Girl, and friends Coco and Luna.
+
+Fifty original black-and-white coloring pages made for little hands ages 3-5:
+- Thick, easy outlines
+- Simple shapes and large open spaces
+- One drawing on the front of each sheet, blank back to help prevent marker bleed-through
+
+Cozy Bay Area vibes - from sunny hills to home snuggles - in a kid-friendly coloring adventure families can enjoy together.
+
+Perfect for toddlers and preschoolers beginning to color.
+
+KEYWORD 1:
+toddler coloring book ages 3-5
+
+KEYWORD 2:
+dog coloring book for kids
+
+KEYWORD 3:
+cat coloring book preschool
+
+KEYWORD 4:
+pit bull puppy coloring pages
+
+KEYWORD 5:
+Bay Area kids activity book
+
+KEYWORD 6:
+animal coloring book children
+
+KEYWORD 7:
+cozy pets coloring book
+
+PRINT OPTIONS:
+Paperback
+Interior: Black and white
+Paper: White
+Trim: 8.5 x 11 inches
+Bleed: No Bleed
+Cover: Matte
+
+PRICE:
+9.99 USD
+Royalty: 60 percent
+Expanded Distribution: Off
+
+UPLOAD LINK:
+https://kdp.amazon.com/en_US/bookshelf
+
+FILES TO UPLOAD:
+Interior PDF: output/cozy-dogs-cats/release/interior.pdf
+Cover PDF: output/cozy-dogs-cats/release/cover.pdf
