@@ -2,7 +2,7 @@
   "book_id": "cozy-dogs-cats",
   "title": "Cozy Dogs and Cats",
   "audience": "Children ages 3\u20135 beginning to color; parent is the buyer",
-  "theme": "Original cozy dogs-and-cats everyday moments",
+  "theme": "Original cozy dogs-and-cats everyday moments starring Etsy Penelope Sochi with parents Smoky and Fat Girl, plus friends Coco and Luna",
   "layout": {
     "trim_width_in": 8.5,
     "trim_height_in": 11.0,
@@ -22,7 +22,7 @@
     {
       "scene_id": "puppy-newborn-sleep",
       "title": "Puppy: newborn nap",
-      "description": "Baby Etsy asleep on a towel.",
+      "description": "Baby Etsy Penelope Sochi asleep on a towel.",
       "page_number": 1,
       "character_ids": [
         "etsy"
@@ -38,7 +38,7 @@
     {
       "scene_id": "puppy-newborn-closeup",
       "title": "Puppy: sleepy close-up",
-      "description": "Newborn Etsy face close-up.",
+      "description": "Newborn Etsy Penelope Sochi face close-up.",
       "page_number": 2,
       "character_ids": [
         "etsy"
@@ -54,7 +54,7 @@
     {
       "scene_id": "puppy-box-nest",
       "title": "Puppy: cozy box nest",
-      "description": "Puppy Etsy in a box nest.",
+      "description": "Puppy Etsy Penelope Sochi in a box nest.",
       "page_number": 3,
       "character_ids": [
         "etsy"
@@ -70,7 +70,7 @@
     {
       "scene_id": "puppy-box-ball",
       "title": "Puppy: box and ball",
-      "description": "Puppy Etsy in the box with a ball.",
+      "description": "Puppy Etsy Penelope Sochi in the box with a ball.",
       "page_number": 4,
       "character_ids": [
         "etsy"
@@ -86,7 +86,7 @@
     {
       "scene_id": "puppy-bottle-time",
       "title": "Puppy: bottle time",
-      "description": "Little Etsy being bottle-fed.",
+      "description": "Little Etsy Penelope Sochi being bottle-fed.",
       "page_number": 5,
       "character_ids": [
         "etsy"
@@ -102,7 +102,7 @@
     {
       "scene_id": "puppy-held",
       "title": "Puppy: held close",
-      "description": "Puppy Etsy held gently.",
+      "description": "Puppy Etsy Penelope Sochi held gently.",
       "page_number": 6,
       "character_ids": [
         "etsy"
@@ -118,7 +118,7 @@
     {
       "scene_id": "puppy-bow-day",
       "title": "Puppy: bow day",
-      "description": "Puppy Etsy with ribbon bows.",
+      "description": "Puppy Etsy Penelope Sochi with ribbon bows.",
       "page_number": 7,
       "character_ids": [
         "etsy"
@@ -134,7 +134,7 @@
     {
       "scene_id": "puppy-floor-look",
       "title": "Puppy: looking back",
-      "description": "Puppy Etsy looking back on the floor.",
+      "description": "Puppy Etsy Penelope Sochi looking back on the floor.",
       "page_number": 8,
       "character_ids": [
         "etsy"
@@ -150,7 +150,7 @@
     {
       "scene_id": "puppy-garden-play",
       "title": "Puppy: garden play",
-      "description": "Puppy Etsy and Coco in the garden.",
+      "description": "Puppy Etsy Penelope Sochi and Coco in the garden.",
       "page_number": 9,
       "character_ids": [
         "etsy",
@@ -167,7 +167,7 @@
     {
       "scene_id": "puppy-picnic",
       "title": "Puppy: picnic",
-      "description": "Puppy Etsy and Luna at a picnic.",
+      "description": "Puppy Etsy Penelope Sochi and Luna at a picnic.",
       "page_number": 10,
       "character_ids": [
         "etsy",
@@ -184,7 +184,7 @@
     {
       "scene_id": "puppy-toy-pile",
       "title": "Puppy: toy pile",
-      "description": "Puppy Etsy with ball, bone, and teddy on a rug.",
+      "description": "Puppy Etsy Penelope Sochi with ball, bone, and teddy on a rug.",
       "page_number": 11,
       "character_ids": [
         "etsy"
@@ -200,7 +200,7 @@
     {
       "scene_id": "puppy-backyard",
       "title": "Puppy: backyard",
-      "description": "Puppy Etsy by the doghouse with toys.",
+      "description": "Puppy Etsy Penelope Sochi by the doghouse with toys.",
       "page_number": 12,
       "character_ids": [
         "etsy"
@@ -216,7 +216,7 @@
     {
       "scene_id": "puppy-bath-time",
       "title": "Puppy: bath time",
-      "description": "Puppy Etsy in the tub with duck and bubbles.",
+      "description": "Puppy Etsy Penelope Sochi in the tub with duck and bubbles.",
       "page_number": 13,
       "character_ids": [
         "etsy"
@@ -232,7 +232,7 @@
     {
       "scene_id": "puppy-snack-time",
       "title": "Puppy: snack time",
-      "description": "Puppy Etsy with food and water bowls.",
+      "description": "Puppy Etsy Penelope Sochi with food and water bowls.",
       "page_number": 14,
       "character_ids": [
         "etsy"
@@ -248,7 +248,7 @@
     {
       "scene_id": "puppy-training",
       "title": "Puppy: training day",
-      "description": "Puppy Etsy training with leash and cones.",
+      "description": "Puppy Etsy Penelope Sochi training with leash and cones.",
       "page_number": 15,
       "character_ids": [
         "etsy"
@@ -264,7 +264,7 @@
     {
       "scene_id": "puppy-rain-walk",
       "title": "Puppy: rainy walk",
-      "description": "Puppy Etsy rainy walk with umbrella and puddles.",
+      "description": "Puppy Etsy Penelope Sochi rainy walk with umbrella and puddles.",
       "page_number": 16,
       "character_ids": [
         "etsy"
@@ -280,7 +280,7 @@
     {
       "scene_id": "puppy-bedtime-story",
       "title": "Puppy: bedtime story",
-      "description": "Puppy Etsy bedtime with book, lamp, and toys.",
+      "description": "Puppy Etsy Penelope Sochi bedtime with book, lamp, and toys.",
       "page_number": 17,
       "character_ids": [
         "etsy"
@@ -296,7 +296,7 @@
     {
       "scene_id": "puppy-playground",
       "title": "Puppy: playground",
-      "description": "Puppy Etsy and Coco at the playground.",
+      "description": "Puppy Etsy Penelope Sochi and Coco at the playground.",
       "page_number": 18,
       "character_ids": [
         "etsy",
@@ -313,7 +313,7 @@
     {
       "scene_id": "puppy-birthday",
       "title": "Puppy: birthday",
-      "description": "Puppy Etsy birthday with cake, gifts, balloons.",
+      "description": "Puppy Etsy Penelope Sochi birthday with cake, gifts, balloons.",
       "page_number": 19,
       "character_ids": [
         "etsy"
@@ -329,7 +329,7 @@
     {
       "scene_id": "puppy-blanket-fort",
       "title": "Puppy: blanket fort",
-      "description": "Puppy Etsy and Luna in a blanket fort.",
+      "description": "Puppy Etsy Penelope Sochi and Luna in a blanket fort.",
       "page_number": 20,
       "character_ids": [
         "etsy",
@@ -345,8 +345,8 @@
     },
     {
       "scene_id": "mature-bed-luna",
-      "title": "Etsy: cozy bed with Luna",
-      "description": "Grown Etsy sharing a bed with Luna.",
+      "title": "Etsy Penelope Sochi: cozy bed with Luna",
+      "description": "Grown Etsy Penelope Sochi sharing a bed with Luna.",
       "page_number": 21,
       "character_ids": [
         "etsy",
@@ -362,8 +362,8 @@
     },
     {
       "scene_id": "mature-car-buddy",
-      "title": "Etsy: car buddy",
-      "description": "Grown Etsy in the car.",
+      "title": "Etsy Penelope Sochi: car buddy",
+      "description": "Grown Etsy Penelope Sochi in the car.",
       "page_number": 22,
       "character_ids": [
         "etsy"
@@ -378,8 +378,8 @@
     },
     {
       "scene_id": "mature-rainy-nap",
-      "title": "Etsy: rainy-day nap",
-      "description": "Grown Etsy napping by the rainy window.",
+      "title": "Etsy Penelope Sochi: rainy-day nap",
+      "description": "Grown Etsy Penelope Sochi napping by the rainy window.",
       "page_number": 23,
       "character_ids": [
         "etsy"
@@ -394,8 +394,8 @@
     },
     {
       "scene_id": "mature-happy-smile",
-      "title": "Etsy: happy smile",
-      "description": "Grown Etsy\u2019s smile with toys.",
+      "title": "Etsy Penelope Sochi: happy smile",
+      "description": "Grown Etsy Penelope Sochi\u2019s smile with toys.",
       "page_number": 24,
       "character_ids": [
         "etsy"
@@ -410,8 +410,8 @@
     },
     {
       "scene_id": "mature-plush-bed",
-      "title": "Etsy: plush pile",
-      "description": "Grown Etsy resting with plush toys.",
+      "title": "Etsy Penelope Sochi: plush pile",
+      "description": "Grown Etsy Penelope Sochi resting with plush toys.",
       "page_number": 25,
       "character_ids": [
         "etsy"
@@ -426,8 +426,8 @@
     },
     {
       "scene_id": "mature-sleep-closeup",
-      "title": "Etsy: peaceful sleep",
-      "description": "Grown Etsy sleeping close-up.",
+      "title": "Etsy Penelope Sochi: peaceful sleep",
+      "description": "Grown Etsy Penelope Sochi sleeping close-up.",
       "page_number": 26,
       "character_ids": [
         "etsy"
@@ -442,8 +442,8 @@
     },
     {
       "scene_id": "mature-hoodie",
-      "title": "Etsy: cozy hoodie",
-      "description": "Grown Etsy in a cozy hoodie.",
+      "title": "Etsy Penelope Sochi: cozy hoodie",
+      "description": "Grown Etsy Penelope Sochi in a cozy hoodie.",
       "page_number": 27,
       "character_ids": [
         "etsy"
@@ -458,8 +458,8 @@
     },
     {
       "scene_id": "mature-window-watch",
-      "title": "Etsy: window watch",
-      "description": "Grown Etsy watching the rain.",
+      "title": "Etsy Penelope Sochi: window watch",
+      "description": "Grown Etsy Penelope Sochi watching the rain.",
       "page_number": 28,
       "character_ids": [
         "etsy"
@@ -474,8 +474,8 @@
     },
     {
       "scene_id": "mature-big-smile",
-      "title": "Etsy: biggest smile",
-      "description": "Grown Etsy\u2019s biggest happy smile.",
+      "title": "Etsy Penelope Sochi: biggest smile",
+      "description": "Grown Etsy Penelope Sochi\u2019s biggest happy smile.",
       "page_number": 29,
       "character_ids": [
         "etsy"
@@ -490,8 +490,8 @@
     },
     {
       "scene_id": "mature-dog-park",
-      "title": "Etsy: dog park",
-      "description": "Grown Etsy at the dog park with toys and trees.",
+      "title": "Etsy Penelope Sochi: dog park",
+      "description": "Grown Etsy Penelope Sochi at the dog park with toys and trees.",
       "page_number": 30,
       "character_ids": [
         "etsy"
@@ -506,8 +506,8 @@
     },
     {
       "scene_id": "mature-beach-day",
-      "title": "Etsy: beach day",
-      "description": "Grown Etsy beach day with bucket and sandcastle.",
+      "title": "Etsy Penelope Sochi: beach day",
+      "description": "Grown Etsy Penelope Sochi beach day with bucket and sandcastle.",
       "page_number": 31,
       "character_ids": [
         "etsy"
@@ -522,8 +522,8 @@
     },
     {
       "scene_id": "mature-movie-night",
-      "title": "Etsy: movie night",
-      "description": "Grown Etsy and Coco movie night on the couch.",
+      "title": "Etsy Penelope Sochi: movie night",
+      "description": "Grown Etsy Penelope Sochi and Coco movie night on the couch.",
       "page_number": 32,
       "character_ids": [
         "etsy",
@@ -539,8 +539,8 @@
     },
     {
       "scene_id": "mature-kitchen-helper",
-      "title": "Etsy: kitchen helper",
-      "description": "Grown Etsy helping in the kitchen.",
+      "title": "Etsy Penelope Sochi: kitchen helper",
+      "description": "Grown Etsy Penelope Sochi helping in the kitchen.",
       "page_number": 33,
       "character_ids": [
         "etsy"
@@ -555,8 +555,8 @@
     },
     {
       "scene_id": "mature-laundry-day",
-      "title": "Etsy: laundry day",
-      "description": "Grown Etsy laundry day with clothes and washer.",
+      "title": "Etsy Penelope Sochi: laundry day",
+      "description": "Grown Etsy Penelope Sochi laundry day with clothes and washer.",
       "page_number": 34,
       "character_ids": [
         "etsy"
@@ -571,8 +571,8 @@
     },
     {
       "scene_id": "mature-camping",
-      "title": "Etsy: camping",
-      "description": "Grown Etsy camping with tent and campfire.",
+      "title": "Etsy Penelope Sochi: camping",
+      "description": "Grown Etsy Penelope Sochi camping with tent and campfire.",
       "page_number": 35,
       "character_ids": [
         "etsy"
@@ -587,8 +587,8 @@
     },
     {
       "scene_id": "mature-garden-water",
-      "title": "Etsy: garden watering",
-      "description": "Grown Etsy and Luna watering garden flowers.",
+      "title": "Etsy Penelope Sochi: garden watering",
+      "description": "Grown Etsy Penelope Sochi and Luna watering garden flowers.",
       "page_number": 36,
       "character_ids": [
         "etsy",
@@ -604,8 +604,8 @@
     },
     {
       "scene_id": "mature-ice-cream",
-      "title": "Etsy: ice cream",
-      "description": "Grown Etsy at an ice cream stand.",
+      "title": "Etsy Penelope Sochi: ice cream",
+      "description": "Grown Etsy Penelope Sochi at an ice cream stand.",
       "page_number": 37,
       "character_ids": [
         "etsy"
@@ -620,8 +620,8 @@
     },
     {
       "scene_id": "mature-vet-visit",
-      "title": "Etsy: vet visit",
-      "description": "Grown Etsy\u2019s friendly vet checkup.",
+      "title": "Etsy Penelope Sochi: vet visit",
+      "description": "Grown Etsy Penelope Sochi\u2019s friendly vet checkup.",
       "page_number": 38,
       "character_ids": [
         "etsy"
@@ -636,8 +636,8 @@
     },
     {
       "scene_id": "mature-snow-day",
-      "title": "Etsy: snow day",
-      "description": "Grown Etsy snow day with snowman.",
+      "title": "Etsy Penelope Sochi: snow day",
+      "description": "Grown Etsy Penelope Sochi snow day with snowman.",
       "page_number": 39,
       "character_ids": [
         "etsy"
@@ -651,106 +651,110 @@
       }
     },
     {
-      "scene_id": "mature-market",
-      "title": "Etsy: market day",
-      "description": "Grown Etsy at the farmer market.",
+      "scene_id": "family-portrait",
+      "title": "Family portrait",
+      "description": "Etsy Penelope Sochi with parents Smoky and Fat Girl.",
       "page_number": 40,
       "character_ids": [
-        "etsy"
+        "etsy",
+        "smoky",
+        "fat-girl"
       ],
       "approval_status": "approved",
       "art_status": "approved",
-      "section": "mature",
+      "section": "family",
       "artwork": {
-        "source_path": "artwork/source/mature-market.png",
-        "approved_path": "artwork/approved/mature-market.png"
+        "source_path": "artwork/source/family-portrait.png",
+        "approved_path": "artwork/approved/family-portrait.png"
       }
     },
     {
-      "scene_id": "mature-spa-day",
-      "title": "Etsy: spa day",
-      "description": "Grown Etsy spa day with bubbles and towels.",
+      "scene_id": "parents-cozy-nap",
+      "title": "Parents: cozy nap",
+      "description": "Smoky and Fat Girl napping together on a cozy bed.",
       "page_number": 41,
       "character_ids": [
-        "etsy"
+        "smoky",
+        "fat-girl"
       ],
       "approval_status": "approved",
       "art_status": "approved",
-      "section": "mature",
+      "section": "family",
       "artwork": {
-        "source_path": "artwork/source/mature-spa-day.png",
-        "approved_path": "artwork/approved/mature-spa-day.png"
+        "source_path": "artwork/source/parents-cozy-nap.png",
+        "approved_path": "artwork/approved/parents-cozy-nap.png"
       }
     },
     {
-      "scene_id": "mature-library",
-      "title": "Etsy: library",
-      "description": "Grown Etsy and Luna at the library.",
+      "scene_id": "smoky-porch-sit",
+      "title": "Smoky: porch sit",
+      "description": "Smoky sitting proudly on the wooden porch.",
       "page_number": 42,
       "character_ids": [
-        "etsy",
-        "luna"
+        "smoky"
       ],
       "approval_status": "approved",
       "art_status": "approved",
-      "section": "mature",
+      "section": "family",
       "artwork": {
-        "source_path": "artwork/source/mature-library.png",
-        "approved_path": "artwork/approved/mature-library.png"
+        "source_path": "artwork/source/smoky-porch-sit.png",
+        "approved_path": "artwork/approved/smoky-porch-sit.png"
       }
     },
     {
-      "scene_id": "mature-paint-art",
-      "title": "Etsy: paint art",
-      "description": "Grown Etsy painting at an easel.",
+      "scene_id": "fat-girl-portrait",
+      "title": "Fat Girl: portrait",
+      "description": "Fat Girl sitting calmly, looking at the viewer.",
       "page_number": 43,
       "character_ids": [
-        "etsy"
+        "fat-girl"
       ],
       "approval_status": "approved",
       "art_status": "approved",
-      "section": "mature",
+      "section": "family",
       "artwork": {
-        "source_path": "artwork/source/mature-paint-art.png",
-        "approved_path": "artwork/approved/mature-paint-art.png"
+        "source_path": "artwork/source/fat-girl-portrait.png",
+        "approved_path": "artwork/approved/fat-girl-portrait.png"
       }
     },
     {
-      "scene_id": "mature-music-night",
-      "title": "Etsy: music night",
-      "description": "Grown Etsy music night with records.",
+      "scene_id": "parents-blanket-cuddle",
+      "title": "Parents: blanket cuddle",
+      "description": "Smoky and Fat Girl cuddled under a patterned blanket.",
       "page_number": 44,
       "character_ids": [
-        "etsy"
+        "smoky",
+        "fat-girl"
       ],
       "approval_status": "approved",
       "art_status": "approved",
-      "section": "mature",
+      "section": "family",
       "artwork": {
-        "source_path": "artwork/source/mature-music-night.png",
-        "approved_path": "artwork/approved/mature-music-night.png"
+        "source_path": "artwork/source/parents-blanket-cuddle.png",
+        "approved_path": "artwork/approved/parents-blanket-cuddle.png"
       }
     },
     {
-      "scene_id": "mature-bakery",
-      "title": "Etsy: bakery",
-      "description": "Grown Etsy bakery visit with treats.",
+      "scene_id": "etsy-with-smoky",
+      "title": "Etsy Penelope Sochi with Smoky",
+      "description": "Etsy Penelope Sochi sitting beside dad Smoky.",
       "page_number": 45,
       "character_ids": [
-        "etsy"
+        "etsy",
+        "smoky"
       ],
       "approval_status": "approved",
       "art_status": "approved",
-      "section": "mature",
+      "section": "family",
       "artwork": {
-        "source_path": "artwork/source/mature-bakery.png",
-        "approved_path": "artwork/approved/mature-bakery.png"
+        "source_path": "artwork/source/etsy-with-smoky.png",
+        "approved_path": "artwork/approved/etsy-with-smoky.png"
       }
     },
     {
       "scene_id": "mature-balloon-walk",
-      "title": "Etsy: balloon walk",
-      "description": "Grown Etsy and Coco with balloons.",
+      "title": "Etsy Penelope Sochi: balloon walk",
+      "description": "Grown Etsy Penelope Sochi and Coco with balloons.",
       "page_number": 46,
       "character_ids": [
         "etsy",
@@ -766,8 +770,8 @@
     },
     {
       "scene_id": "mature-pizza-night",
-      "title": "Etsy: pizza night",
-      "description": "Grown Etsy pizza night.",
+      "title": "Etsy Penelope Sochi: pizza night",
+      "description": "Grown Etsy Penelope Sochi pizza night.",
       "page_number": 47,
       "character_ids": [
         "etsy"
@@ -781,25 +785,26 @@
       }
     },
     {
-      "scene_id": "mature-stargazing",
-      "title": "Etsy: stargazing",
-      "description": "Grown Etsy stargazing with telescope.",
+      "scene_id": "etsy-with-mom",
+      "title": "Etsy Penelope Sochi with Fat Girl",
+      "description": "Etsy Penelope Sochi snuggled with mom Fat Girl.",
       "page_number": 48,
       "character_ids": [
-        "etsy"
+        "etsy",
+        "fat-girl"
       ],
       "approval_status": "approved",
       "art_status": "approved",
-      "section": "mature",
+      "section": "family",
       "artwork": {
-        "source_path": "artwork/source/mature-stargazing.png",
-        "approved_path": "artwork/approved/mature-stargazing.png"
+        "source_path": "artwork/source/etsy-with-mom.png",
+        "approved_path": "artwork/approved/etsy-with-mom.png"
       }
     },
     {
       "scene_id": "mature-morning-stretch",
-      "title": "Etsy: morning stretch",
-      "description": "Grown Etsy and Luna morning stretch.",
+      "title": "Etsy Penelope Sochi: morning stretch",
+      "description": "Grown Etsy Penelope Sochi and Luna morning stretch.",
       "page_number": 49,
       "character_ids": [
         "etsy",
@@ -815,11 +820,13 @@
     },
     {
       "scene_id": "mature-family-cozy",
-      "title": "Etsy: family cozy",
-      "description": "Grown Etsy, Coco, and Luna cozy on the couch.",
+      "title": "Family cozy night",
+      "description": "Etsy Penelope Sochi, Smoky, Fat Girl, Coco, and Luna cozy on the couch.",
       "page_number": 50,
       "character_ids": [
         "etsy",
+        "smoky",
+        "fat-girl",
         "coco",
         "luna"
       ],
@@ -834,18 +841,24 @@
   ],
   "art_status": "approved",
   "publishing": {
-    "subtitle": "A cozy coloring book for ages 3\u20135",
-    "description": "Fifty original black-and-white coloring illustrations for little kids ages 3\u20135. One drawing per sheet with a blank back to help prevent bleed-through.",
+    "subtitle": "Etsy Penelope Sochi and Friends \u2014 Ages 3\u20135",
+    "description": "Meet Etsy Penelope Sochi, a sweet pit-bull pup growing up with dad Smoky, mom Fat Girl, and friends Coco and Luna. Fifty original black-and-white coloring pages made for little hands ages 3\u20135: thick outlines, simple shapes, and large open spaces. One illustration on the front of each sheet with a blank back to help prevent marker bleed-through. Perfect for cozy indoor coloring time.",
     "keywords": [
-      "coloring book",
-      "dogs",
-      "cats",
-      "toddlers",
-      "cozy"
+      "coloring book for kids",
+      "toddler coloring book",
+      "dog coloring book",
+      "cat coloring book",
+      "ages 3-5",
+      "pit bull",
+      "Etsy Penelope Sochi",
+      "family pets"
     ],
-    "categories": [],
-    "author": "",
-    "imprint": "",
+    "categories": [
+      "Juvenile Nonfiction / Activity Books / Coloring",
+      "Juvenile Nonfiction / Animals / Dogs"
+    ],
+    "author": "Joney Giron",
+    "imprint": "Cozy Dogs and Cats",
     "language": "en",
     "marketplace": "Amazon KDP",
     "cover": {

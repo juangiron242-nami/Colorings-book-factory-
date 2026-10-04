@@ -54,9 +54,10 @@ appearances by Coco and Luna).
 
 ## Known Character Source Material
 
-Character concepts have been based on: - Etsy --- daughter pit bull -
-Smoky --- gray father pit bull - Fat Girl --- mother, deceased - Luna
---- black cat - Coco --- Frenchie
+Character concepts have been based on: - Etsy Penelope Sochi ---
+daughter pit bull (first, middle, last) - Smoky (aka Smoking) --- gray
+father pit bull - Fat Girl --- mother pit bull - Luna --- black cat -
+Coco --- Frenchie
 
 Photos/source references may exist in-repo under book artwork references.
 Do not invent missing visual details for characters without refs.

@@ -2,14 +2,14 @@
   "book_id": "cozy-dogs-cats",
   "description": "Operator-supplied character reference photos imported for likeness locking.",
   "missing_in_this_batch": [
-    "smoky",
-    "fat-girl",
     "luna"
   ],
   "notes": [
-    "Smoky (gray father pit bull), Fat Girl (mother), and Luna (black cat) are not clearly present in this photo batch.",
-    "Do not invent likeness details for missing characters.",
-    "Coco assignments are based on brachycephalic/Frenchie traits vs Etsy pit-bull growth series; operator may re-tag."
+    "Luna (black cat) is not clearly present in this photo batch — do not invent traits.",
+    "Coco assignments are based on brachycephalic/Frenchie traits vs Etsy pit-bull growth series; operator may re-tag.",
+    "Parent batch 2026-10-04: Smoky (aka Smoking) is blue/charcoal gray father; Fat Girl is tan/fawn mother.",
+    "Main character full name: Etsy Penelope Sochi (first, middle, last).",
+    "Parents of Etsy Penelope Sochi: Smoky (dad) and Fat Girl (mom)."
   ],
   "photos": [
     {
@@ -476,6 +476,222 @@
       "preview_path": "artwork/source/references/_previews/46_etsy_adult.jpg",
       "width_px": 4284,
       "height_px": 5712
+    },
+    {
+      "index": 47,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f261-74eb-81dc-597333753df1.jpg",
+      "path": "artwork/source/references/smoky/adult/47_01a106c2-f261-74eb-81dc-597333753df1.jpg",
+      "preview_path": "artwork/source/references/_previews/47_smoky_adult.jpg",
+      "width_px": 1284,
+      "height_px": 2778,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 48,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7135-9796-4ff7a62418e2.jpg",
+      "path": "artwork/source/references/smoky/adult/48_01a106c2-f262-7135-9796-4ff7a62418e2.jpg",
+      "preview_path": "artwork/source/references/_previews/48_smoky_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 49,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7138-a9d7-f6a58030fec5.jpg",
+      "path": "artwork/source/references/smoky/adult/49_01a106c2-f262-7138-a9d7-f6a58030fec5.jpg",
+      "preview_path": "artwork/source/references/_previews/49_smoky_adult.jpg",
+      "width_px": 1284,
+      "height_px": 2778,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 50,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-719d-80e9-9781f2b0489c.jpg",
+      "path": "artwork/source/references/smoky/adult/50_01a106c2-f262-719d-80e9-9781f2b0489c.jpg",
+      "preview_path": "artwork/source/references/_previews/50_smoky_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 51,
+      "character_id": "fat-girl",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-72ff-9613-3734d868a219.jpg",
+      "path": "artwork/source/references/fat-girl/adult/51_01a106c2-f262-72ff-9613-3734d868a219.jpg",
+      "preview_path": "artwork/source/references/_previews/51_fat-girl_adult.jpg",
+      "width_px": 900,
+      "height_px": 1600,
+      "note": "Fat Girl: tan/fawn mother pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 52,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7421-aa6a-48e8fff74442.jpg",
+      "path": "artwork/source/references/smoky/adult/52_01a106c2-f262-7421-aa6a-48e8fff74442.jpg",
+      "preview_path": "artwork/source/references/_previews/52_smoky_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 53,
+      "character_id": "fat-girl",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-747d-b553-0e1b6b63db06.jpg",
+      "path": "artwork/source/references/fat-girl/adult/53_01a106c2-f262-747d-b553-0e1b6b63db06.jpg",
+      "preview_path": "artwork/source/references/_previews/53_fat-girl_adult.jpg",
+      "width_px": 2316,
+      "height_px": 3088,
+      "note": "Fat Girl: tan/fawn mother pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 54,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-74ac-9641-4a0b4385f3ff.jpg",
+      "path": "artwork/source/references/smoky/adult/54_01a106c2-f262-74ac-9641-4a0b4385f3ff.jpg",
+      "preview_path": "artwork/source/references/_previews/54_smoky_adult.jpg",
+      "width_px": 1080,
+      "height_px": 1920,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 55,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7551-8c8f-381d4d122359.jpg",
+      "path": "artwork/source/references/smoky/adult/55_01a106c2-f262-7551-8c8f-381d4d122359.jpg",
+      "preview_path": "artwork/source/references/_previews/55_smoky_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 56,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7816-8ca7-c47dc17ba995.jpg",
+      "path": "artwork/source/references/smoky/adult/56_01a106c2-f262-7816-8ca7-c47dc17ba995.jpg",
+      "preview_path": "artwork/source/references/_previews/56_smoky_adult.jpg",
+      "width_px": 1284,
+      "height_px": 2778,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 57,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-78b0-88b8-e0ae06eb72a8.jpg",
+      "path": "artwork/source/references/smoky/adult/57_01a106c2-f262-78b0-88b8-e0ae06eb72a8.jpg",
+      "preview_path": "artwork/source/references/_previews/57_smoky_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 58,
+      "character_id": "fat-girl",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-797c-8d8e-ef9f6312bdf1.jpg",
+      "path": "artwork/source/references/fat-girl/adult/58_01a106c2-f262-797c-8d8e-ef9f6312bdf1.jpg",
+      "preview_path": "artwork/source/references/_previews/58_fat-girl_adult.jpg",
+      "width_px": 900,
+      "height_px": 1600,
+      "note": "Fat Girl: tan/fawn mother pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 59,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7a53-982d-7d30c5a32abc.jpg",
+      "path": "artwork/source/references/smoky/adult/59_01a106c2-f262-7a53-982d-7d30c5a32abc.jpg",
+      "preview_path": "artwork/source/references/_previews/59_smoky_adult.jpg",
+      "width_px": 1080,
+      "height_px": 1920,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 60,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7aa0-b264-986dba796ea6.jpg",
+      "path": "artwork/source/references/smoky/adult/60_01a106c2-f262-7aa0-b264-986dba796ea6.jpg",
+      "preview_path": "artwork/source/references/_previews/60_smoky_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 61,
+      "character_id": "fat-girl",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7b75-a179-a1328f020973.jpg",
+      "path": "artwork/source/references/fat-girl/adult/61_01a106c2-f262-7b75-a179-a1328f020973.jpg",
+      "preview_path": "artwork/source/references/_previews/61_fat-girl_adult.jpg",
+      "width_px": 900,
+      "height_px": 1600,
+      "note": "Fat Girl: tan/fawn mother pit bull.",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 62,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7bde-8f52-360a510d52d5.jpg",
+      "path": "artwork/source/references/smoky/adult/62_01a106c2-f262-7bde-8f52-360a510d52d5.jpg",
+      "preview_path": "artwork/source/references/_previews/62_smoky_adult.jpg",
+      "width_px": 2316,
+      "height_px": 3088,
+      "note": "Both parents sleeping together (Smoky + Fat Girl).",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 63,
+      "character_id": "fat-girl",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7bde-8f52-360a510d52d5.jpg",
+      "path": "artwork/source/references/fat-girl/adult/63_01a106c2-f262-7bde-8f52-360a510d52d5.jpg",
+      "preview_path": "artwork/source/references/_previews/63_fat-girl_adult.jpg",
+      "width_px": 2316,
+      "height_px": 3088,
+      "note": "Both parents sleeping together (Smoky + Fat Girl).",
+      "batch": "parents-2026-10-04"
+    },
+    {
+      "index": 64,
+      "character_id": "smoky",
+      "life_stage": "adult",
+      "original_filename": "01a106c2-f262-7f21-9eeb-57e5d1ede539.jpg",
+      "path": "artwork/source/references/smoky/adult/64_01a106c2-f262-7f21-9eeb-57e5d1ede539.jpg",
+      "preview_path": "artwork/source/references/_previews/64_smoky_adult.jpg",
+      "width_px": 3024,
+      "height_px": 4032,
+      "note": "Smoky (aka Smoking): blue/charcoal gray father pit bull.",
+      "batch": "parents-2026-10-04"
     }
   ]
 }

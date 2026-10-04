@@ -8,6 +8,8 @@ Imported operator reference photos for likeness work.
 
 - `MANIFEST.json` — index, character tags, life stages, notes
 - `etsy/{newborn,puppy,adult}/` — 42 photos (growth series + adult)
+- `smoky/adult/` — 13 photos (blue/charcoal gray father, aka Smoking)
+- `fat-girl/adult/` — 5 photos (tan/fawn mother)
 - `coco/adult/` — 4 photos provisionally tagged as Coco (Frenchie traits)
 - `_previews/` — small JPEGs for quick browsing (not a substitute for originals)
 
@@ -15,10 +17,10 @@ Imported operator reference photos for likeness work.
 
 | Character | In this batch? | Count |
 |-----------|----------------|-------|
-| Etsy | Yes | 42 |
+| Etsy Penelope Sochi | Yes | 42 |
+| Smoky (aka Smoking) | Yes | 13 |
+| Fat Girl | Yes | 5 |
 | Coco | Provisional yes | 4 |
-| Smoky | No | 0 |
-| Fat Girl | No | 0 |
 | Luna | No | 0 |
 
 ## Rules
@@ -26,4 +28,4 @@ Imported operator reference photos for likeness work.
 - Originals are preserved under `artwork/source/references/` (never overwrite).
 - Visual notes in `characters.json` only record traits visible in these photos.
 - Missing characters stay draft with empty `source_refs` until photos arrive.
-- Coloring-page placeholders under `artwork/approved/` are **not** likeness-locked art.
+- Coloring-page art under `artwork/approved/` still needs operator likeness lock before final clearance.

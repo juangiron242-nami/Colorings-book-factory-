@@ -10,4 +10,16 @@ Baseline publishing specification applied:
 - Assembled interior target ~100–110 pages (currently 103)
 - Cover dimensions derive from final interior page count
 
-Artwork remains thick-outline / large-open-area style for little kids.
+## Characters (2026-10-04)
+
+- **Etsy Penelope Sochi** — main character (first, middle, last)
+- **Smoky** (aka Smoking) — blue/charcoal gray father pit bull
+- **Fat Girl** — tan/fawn mother pit bull
+- **Coco** — Frenchie friend
+- **Luna** — black cat friend (no photo refs yet)
+
+Parent reference photos imported under `artwork/source/references/smoky/` and
+`fat-girl/`. Eight family/parent pages added into the 50-illustration set.
+
+Artwork style: thick-outline / large-open-area line art for little kids.
+**Final likeness clearance still reserved for the operator.**
