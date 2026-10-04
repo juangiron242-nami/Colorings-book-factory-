@@ -20,7 +20,7 @@ Use this list for the final operator clearance before KDP upload.
 - [ ] Confirm list price (economics.json currently $7.99)
 - [ ] KDP category / keyword final pick in Seller Central
 - [ ] Proof print / soft proof flip of interior + cover
-- [ ] Luna still has no photo refs — invent-nothing rule still applies
+- [x] Luna photo refs imported (5 adult) — likeness lock still pending
 - [ ] Cover wrap art creative final (dimensions OK; design may still be revised)
 
 ## Deliverable paths
