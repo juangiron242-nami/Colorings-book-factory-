@@ -21,7 +21,7 @@ Imported operator reference photos for likeness work.
 | Smoky (aka Smoking) | Yes | 13 |
 | Fat Girl | Yes | 5 |
 | Coco | Provisional yes | 4 |
-| Luna | No | 0 |
+| Luna | Pending upload | 0 (folders ready: `luna/adult/`, `luna/kitten/`) |
 
 ## Rules
 
