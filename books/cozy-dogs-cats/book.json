@@ -841,8 +841,8 @@
   ],
   "art_status": "approved",
   "publishing": {
-    "subtitle": "Etsy Penelope Sochi and Friends \u2014 Ages 3\u20135",
-    "description": "Meet Etsy Penelope Sochi, a sweet pit-bull pup growing up with dad Smoky, mom Fat Girl, and friends Coco and Luna. Fifty original black-and-white coloring pages made for little hands ages 3\u20135: thick outlines, simple shapes, and large open spaces. One illustration on the front of each sheet with a blank back to help prevent marker bleed-through. Perfect for cozy indoor coloring time.",
+    "subtitle": "A cozy Bay Area coloring book for ages 3\u20135",
+    "description": "Meet Etsy Penelope Sochi and her Bay Area family \u2014 dad Smoky, mom Fat Girl, and friends Coco and Luna. Fifty original black-and-white coloring pages for little kids ages 3\u20135: thick outlines, simple shapes, and large open spaces. One illustration per sheet with a blank back to help prevent marker bleed-through. Inspired by cozy life around the San Francisco Bay.",
     "keywords": [
       "coloring book for kids",
       "toddler coloring book",
@@ -864,7 +864,9 @@
     "cover": {
       "source_path": "artwork/cover/source/cover_wrap.png",
       "last_page_count": 103
-    }
+    },
+    "likeness_cleared_at": "2026-10-04",
+    "likeness_cleared_by": "operator"
   },
   "output_status": "ready",
   "printing": {
